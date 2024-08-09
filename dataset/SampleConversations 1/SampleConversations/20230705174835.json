@@ -1,0 +1,221 @@
+{
+  "ConversationId": "a3203d1a-c8b2-449e-afa2-a4ee24d38747",
+  "Messages": [
+    {
+      "Id": "35437eb4-59c6-4e71-95b8-88c591e7b30c",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-05T17:48:35.9679374-07:00",
+      "ConversationId": "a3203d1a-c8b2-449e-afa2-a4ee24d38747",
+      "Value": "Thank you for calling the travel agency contact center. My name is Linda Foster. How can I assist you today?",
+      "UserId": "9T8HCU",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "1de38c47-2148-4c52-a32c-fffa1d8cc155",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-05T17:48:35.9679374-07:00",
+      "ConversationId": "a3203d1a-c8b2-449e-afa2-a4ee24d38747",
+      "Value": "Hi Linda, my name is John Smith and I have a compliment to share about my recent trip. I just got back from a fantastic trip to Paris!",
+      "UserId": "94WI2F",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "d67886f6-b6ff-45fa-b580-066a5f701bc9",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-05T17:48:35.9679374-07:00",
+      "ConversationId": "a3203d1a-c8b2-449e-afa2-a4ee24d38747",
+      "Value": "That's wonderful to hear, John! Paris is such a beautiful destination. I'm glad you had a great time. Can you please tell me more about what made your trip so special?",
+      "UserId": "9T8HCU",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "580cb5f9-c9a0-4109-80ec-f2203a220a3b",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-05T17:48:35.9679374-07:00",
+      "ConversationId": "a3203d1a-c8b2-449e-afa2-a4ee24d38747",
+      "Value": "Absolutely! First of all, the flight with Skyjet Airlines was smooth and comfortable. The crew was friendly and attentive, making the long journey from Dallas to Paris much more enjoyable.",
+      "UserId": "94WI2F",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "15ea04c7-78d9-42fe-9aec-e21a1b51ed6a",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-05T17:48:35.9679374-07:00",
+      "ConversationId": "a3203d1a-c8b2-449e-afa2-a4ee24d38747",
+      "Value": "I'm glad to hear that, John. Skyjet Airlines always aims to provide a pleasant travel experience for their passengers. I'll make sure to pass on your compliment to them. Did you face any issues with your lodging in Paris?",
+      "UserId": "9T8HCU",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "5401d652-8c1b-4ae7-88cd-0115123aa083",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-05T17:48:35.9679374-07:00",
+      "ConversationId": "a3203d1a-c8b2-449e-afa2-a4ee24d38747",
+      "Value": "Not at all. I stayed at the Grand Plaza Hotel, and it was absolutely amazing. The location was perfect, right in the heart of the city. The staff was incredibly helpful, and the room was clean and luxurious. I couldn't have asked for a better place to stay.",
+      "UserId": "94WI2F",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "b9348a42-286d-4065-9508-ba973f0a6d06",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-05T17:48:35.9679374-07:00",
+      "ConversationId": "a3203d1a-c8b2-449e-afa2-a4ee24d38747",
+      "Value": "That sounds fantastic, John. I'm delighted to hear that the Grand Plaza Hotel exceeded your expectations. I'll definitely make a note of that for future travelers. Were there any other aspects of your trip that stood out?",
+      "UserId": "9T8HCU",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "98e6021c-b676-4e00-a60c-072621b65d42",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-05T17:48:35.9679374-07:00",
+      "ConversationId": "a3203d1a-c8b2-449e-afa2-a4ee24d38747",
+      "Value": "Yes, definitely! I took a guided tour to explore the city, and our tour guide, Emily Jones, was outstanding. She was knowledgeable, enthusiastic, and truly passionate about the history and culture of Paris. She made the experience so engaging and memorable.",
+      "UserId": "94WI2F",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "ec9607a7-0b91-4bb6-a2ff-691932948ed3",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-05T17:48:35.9679374-07:00",
+      "ConversationId": "a3203d1a-c8b2-449e-afa2-a4ee24d38747",
+      "Value": "I'm thrilled to hear that, John. Emily Jones must be a fantastic tour guide. I'll make sure to recognize her outstanding service. Is there anything else you would like to share about your trip?",
+      "UserId": "9T8HCU",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "17c70348-ec6b-40dc-8177-792b58626245",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-05T17:48:35.9679374-07:00",
+      "ConversationId": "a3203d1a-c8b2-449e-afa2-a4ee24d38747",
+      "Value": "Just that overall, I'm extremely satisfied with the service I received during this trip. It was hassle-free, and everything went smoothly. I want to express my gratitude to you, Linda, for assisting me in planning this unforgettable experience.",
+      "UserId": "94WI2F",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "1ae8583c-cd65-485f-b3b6-fdca2bcea765",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-05T17:48:35.9679374-07:00",
+      "ConversationId": "a3203d1a-c8b2-449e-afa2-a4ee24d38747",
+      "Value": "Thank you so much for your kind words, John. It was my pleasure to help you. As a token of our appreciation, I'd like to offer you a complimentary promotional discount on your next trip with us. How does that sound?",
+      "UserId": "9T8HCU",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "7d778017-f7d7-4924-9d91-40aa1bb174ed",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-05T17:48:35.9679374-07:00",
+      "ConversationId": "a3203d1a-c8b2-449e-afa2-a4ee24d38747",
+      "Value": "That sounds amazing, Linda! I really appreciate it. I'm already thinking about my next adventure, and this discount will be incredibly helpful. Thank you so much!",
+      "UserId": "94WI2F",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "835bb847-d33f-4093-9fa7-f6595f38c245",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-05T17:48:35.9679374-07:00",
+      "ConversationId": "a3203d1a-c8b2-449e-afa2-a4ee24d38747",
+      "Value": "You're very welcome, John! I'm glad I could assist you and I hope your next trip is just as wonderful as this one. If you have any questions or need further assistance in the future, please don't hesitate to reach out to us. Have a great day!",
+      "UserId": "9T8HCU",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "08c656c4-66c8-441f-ab77-fa09182d4843",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-05T17:48:35.9679374-07:00",
+      "ConversationId": "a3203d1a-c8b2-449e-afa2-a4ee24d38747",
+      "Value": "Thank you, Linda! I will definitely be in touch. Have a great day too!",
+      "UserId": "94WI2F",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    }
+  ],
+  "StartTime": "2024-07-05T17:48:35.9679374-07:00",
+  "EndTime": "2024-07-05T17:48:35.9679374-07:00",
+  "merged_content": "Thank you for calling the travel agency contact center. My name is Linda Foster. How can I assist you today?Hi Linda, my name is John Smith and I have a compliment to share about my recent trip. I just got back from a fantastic trip to Paris!That's wonderful to hear, John! Paris is such a beautiful destination. I'm glad you had a great time. Can you please tell me more about what made your trip so special?Absolutely! First of all, the flight with Skyjet Airlines was smooth and comfortable. The crew was friendly and attentive, making the long journey from Dallas to Paris much more enjoyable.I'm glad to hear that, John. Skyjet Airlines always aims to provide a pleasant travel experience for their passengers. I'll make sure to pass on your compliment to them. Did you face any issues with your lodging in Paris?Not at all. I stayed at the Grand Plaza Hotel, and it was absolutely amazing. The location was perfect, right in the heart of the city. The staff was incredibly helpful, and the room was clean and luxurious. I couldn't have asked for a better place to stay.That sounds fantastic, John. I'm delighted to hear that the Grand Plaza Hotel exceeded your expectations. I'll definitely make a note of that for future travelers. Were there any other aspects of your trip that stood out?Yes, definitely! I took a guided tour to explore the city, and our tour guide, Emily Jones, was outstanding. She was knowledgeable, enthusiastic, and truly passionate about the history and culture of Paris. She made the experience so engaging and memorable.I'm thrilled to hear that, John. Emily Jones must be a fantastic tour guide. I'll make sure to recognize her outstanding service. Is there anything else you would like to share about your trip?Just that overall, I'm extremely satisfied with the service I received during this trip. It was hassle-free, and everything went smoothly. I want to express my gratitude to you, Linda, for assisting me in planning this unforgettable experience.Thank you so much for your kind words, John. It was my pleasure to help you. As a token of our appreciation, I'd like to offer you a complimentary promotional discount on your next trip with us. How does that sound?That sounds amazing, Linda! I really appreciate it. I'm already thinking about my next adventure, and this discount will be incredibly helpful. Thank you so much!You're very welcome, John! I'm glad I could assist you and I hope your next trip is just as wonderful as this one. If you have any questions or need further assistance in the future, please don't hesitate to reach out to us. Have a great day!Thank you, Linda! I will definitely be in touch. Have a great day too!",
+  "merged_content_user": "Hi Linda, my name is John Smith and I have a compliment to share about my recent trip. I just got back from a fantastic trip to Paris!Absolutely! First of all, the flight with Skyjet Airlines was smooth and comfortable. The crew was friendly and attentive, making the long journey from Dallas to Paris much more enjoyable.Not at all. I stayed at the Grand Plaza Hotel, and it was absolutely amazing. The location was perfect, right in the heart of the city. The staff was incredibly helpful, and the room was clean and luxurious. I couldn't have asked for a better place to stay.Yes, definitely! I took a guided tour to explore the city, and our tour guide, Emily Jones, was outstanding. She was knowledgeable, enthusiastic, and truly passionate about the history and culture of Paris. She made the experience so engaging and memorable.Just that overall, I'm extremely satisfied with the service I received during this trip. It was hassle-free, and everything went smoothly. I want to express my gratitude to you, Linda, for assisting me in planning this unforgettable experience.That sounds amazing, Linda! I really appreciate it. I'm already thinking about my next adventure, and this discount will be incredibly helpful. Thank you so much!Thank you, Linda! I will definitely be in touch. Have a great day too!",
+  "merged_content_agent": "Thank you for calling the travel agency contact center. My name is Linda Foster. How can I assist you today?That's wonderful to hear, John! Paris is such a beautiful destination. I'm glad you had a great time. Can you please tell me more about what made your trip so special?I'm glad to hear that, John. Skyjet Airlines always aims to provide a pleasant travel experience for their passengers. I'll make sure to pass on your compliment to them. Did you face any issues with your lodging in Paris?That sounds fantastic, John. I'm delighted to hear that the Grand Plaza Hotel exceeded your expectations. I'll definitely make a note of that for future travelers. Were there any other aspects of your trip that stood out?I'm thrilled to hear that, John. Emily Jones must be a fantastic tour guide. I'll make sure to recognize her outstanding service. Is there anything else you would like to share about your trip?Thank you so much for your kind words, John. It was my pleasure to help you. As a token of our appreciation, I'd like to offer you a complimentary promotional discount on your next trip with us. How does that sound?You're very welcome, John! I'm glad I could assist you and I hope your next trip is just as wonderful as this one. If you have any questions or need further assistance in the future, please don't hesitate to reach out to us. Have a great day!",
+  "full_conversation": "Agent: Thank you for calling the travel agency contact center. My name is Linda Foster. How can I assist you today?\nCustomer: Hi Linda, my name is John Smith and I have a compliment to share about my recent trip. I just got back from a fantastic trip to Paris!\nAgent: That's wonderful to hear, John! Paris is such a beautiful destination. I'm glad you had a great time. Can you please tell me more about what made your trip so special?\nCustomer: Absolutely! First of all, the flight with Skyjet Airlines was smooth and comfortable. The crew was friendly and attentive, making the long journey from Dallas to Paris much more enjoyable.\nAgent: I'm glad to hear that, John. Skyjet Airlines always aims to provide a pleasant travel experience for their passengers. I'll make sure to pass on your compliment to them. Did you face any issues with your lodging in Paris?\nCustomer: Not at all. I stayed at the Grand Plaza Hotel, and it was absolutely amazing. The location was perfect, right in the heart of the city. The staff was incredibly helpful, and the room was clean and luxurious. I couldn't have asked for a better place to stay.\nAgent: That sounds fantastic, John. I'm delighted to hear that the Grand Plaza Hotel exceeded your expectations. I'll definitely make a note of that for future travelers. Were there any other aspects of your trip that stood out?\nCustomer: Yes, definitely! I took a guided tour to explore the city, and our tour guide, Emily Jones, was outstanding. She was knowledgeable, enthusiastic, and truly passionate about the history and culture of Paris. She made the experience so engaging and memorable.\nAgent: I'm thrilled to hear that, John. Emily Jones must be a fantastic tour guide. I'll make sure to recognize her outstanding service. Is there anything else you would like to share about your trip?\nCustomer: Just that overall, I'm extremely satisfied with the service I received during this trip. It was hassle-free, and everything went smoothly. I want to express my gratitude to you, Linda, for assisting me in planning this unforgettable experience.\nAgent: Thank you so much for your kind words, John. It was my pleasure to help you. As a token of our appreciation, I'd like to offer you a complimentary promotional discount on your next trip with us. How does that sound?\nCustomer: That sounds amazing, Linda! I really appreciate it. I'm already thinking about my next adventure, and this discount will be incredibly helpful. Thank you so much!\nAgent: You're very welcome, John! I'm glad I could assist you and I hope your next trip is just as wonderful as this one. If you have any questions or need further assistance in the future, please don't hesitate to reach out to us. Have a great day!\nCustomer: Thank you, Linda! I will definitely be in touch. Have a great day too!\n"
+}

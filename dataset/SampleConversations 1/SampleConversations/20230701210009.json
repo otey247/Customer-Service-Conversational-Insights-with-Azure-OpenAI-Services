@@ -1,0 +1,191 @@
+{
+  "ConversationId": "24d4e3d9-fb3e-48ec-8ecc-6306aa307834",
+  "Messages": [
+    {
+      "Id": "7d9fefc9-db4c-4576-a51e-81549f9b5409",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-01T21:00:09.6823409-07:00",
+      "ConversationId": "24d4e3d9-fb3e-48ec-8ecc-6306aa307834",
+      "Value": "Thank you for calling Traveler's Delight, my name is Emily Johnson. How may I assist you today?",
+      "UserId": "EUL3K1",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "d25ee00b-ca3c-4fc5-8214-2c13977479e9",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-01T21:00:09.6823409-07:00",
+      "ConversationId": "24d4e3d9-fb3e-48ec-8ecc-6306aa307834",
+      "Value": "Hi Emily, my name is Jack Thompson. I recently took a trip from Houston, Texas to Tokyo, Japan, and I wanted to express my gratitude for the exceptional service I received.",
+      "UserId": "I1BCCQ",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "4809e548-faf4-4ce7-8609-5e44c04e6e99",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-01T21:00:09.6823409-07:00",
+      "ConversationId": "24d4e3d9-fb3e-48ec-8ecc-6306aa307834",
+      "Value": "That's fantastic to hear, Mr. Thompson! I'm delighted that you had a positive experience. Can you provide me with some specific details about the outstanding service you received?",
+      "UserId": "EUL3K1",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "40669a97-f089-48f5-a388-b3bc8a6c5f37",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-01T21:00:09.6823409-07:00",
+      "ConversationId": "24d4e3d9-fb3e-48ec-8ecc-6306aa307834",
+      "Value": "Certainly, Emily. First of all, the flight with Horizon Airlines was incredibly comfortable. The cabin crew was attentive and friendly, and the in-flight entertainment options were top-notch. The smooth and hassle-free journey made the long-haul flight much more bearable.",
+      "UserId": "I1BCCQ",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "95980aa8-212a-4c20-8bb0-bd9d1893d78d",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-01T21:00:09.6823409-07:00",
+      "ConversationId": "24d4e3d9-fb3e-48ec-8ecc-6306aa307834",
+      "Value": "I'm glad to hear that, Mr. Thompson. Horizon Airlines is known for its exceptional customer service. I'll make sure to pass on your compliments to them. Was there anything else that stood out during your trip?",
+      "UserId": "EUL3K1",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "1ffe6597-ceaa-4074-b049-ea026763be46",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-01T21:00:09.6823409-07:00",
+      "ConversationId": "24d4e3d9-fb3e-48ec-8ecc-6306aa307834",
+      "Value": "Absolutely, Emily. The accommodations at the Sakura Hotel in Tokyo were outstanding. The staff went above and beyond to ensure my stay was comfortable and enjoyable. They were knowledgeable about the local attractions and provided excellent recommendations for places to visit and dine. The hotel's location was also incredibly convenient for exploring the city.",
+      "UserId": "I1BCCQ",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "4751194f-7f22-45ba-8752-f0ec8dae13bf",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-01T21:00:09.6823409-07:00",
+      "ConversationId": "24d4e3d9-fb3e-48ec-8ecc-6306aa307834",
+      "Value": "That's wonderful to hear, Mr. Thompson. I'm thrilled that Sakura Hotel exceeded your expectations. Their dedication to customer satisfaction is commendable. I'll make sure to share your kind words with them. Is there anything else you'd like to mention?",
+      "UserId": "EUL3K1",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "523a17b1-c425-4a69-96aa-337005800866",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-01T21:00:09.6823409-07:00",
+      "ConversationId": "24d4e3d9-fb3e-48ec-8ecc-6306aa307834",
+      "Value": "Actually, yes. I had to reschedule my return flight due to a sudden change in plans, and I was pleasantly surprised by how helpful the customer service team at Traveler's Delight was. They assisted me in rebooking my flight without any hassle or additional charges. It made a stressful situation much more manageable.",
+      "UserId": "I1BCCQ",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "fe4567ba-3149-4c82-a299-961f881d3570",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-01T21:00:09.6823409-07:00",
+      "ConversationId": "24d4e3d9-fb3e-48ec-8ecc-6306aa307834",
+      "Value": "I'm glad we could assist you, Mr. Thompson. Our team at Traveler's Delight aims to provide excellent customer service at all times. To show our appreciation for your positive feedback and as a gesture of goodwill, I would like to offer you a 15% discount on your next international trip booking with us. How does that sound?",
+      "UserId": "EUL3K1",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "75582c2b-30fc-4ef4-b8d7-dedb4be86ed4",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-01T21:00:09.6823409-07:00",
+      "ConversationId": "24d4e3d9-fb3e-48ec-8ecc-6306aa307834",
+      "Value": "That sounds wonderful, Emily! I truly appreciate your kind offer. I will definitely take advantage of the discount and book my future trips with Traveler's Delight. Thank you for your exceptional service today.",
+      "UserId": "I1BCCQ",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "63aacd90-1de9-4bf0-8e3f-b63ab3f4b83e",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-01T21:00:09.6823409-07:00",
+      "ConversationId": "24d4e3d9-fb3e-48ec-8ecc-6306aa307834",
+      "Value": "You're most welcome, Mr. Thompson. It was my pleasure assisting you. Should you need any further assistance or have any other travel plans in the future, please don't hesitate to reach out to us. Have a fantastic day!",
+      "UserId": "EUL3K1",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "8b106af7-b230-4215-9ccb-64baa0a691bc",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-01T21:00:09.6823409-07:00",
+      "ConversationId": "24d4e3d9-fb3e-48ec-8ecc-6306aa307834",
+      "Value": "Thank you, Emily. You have a great day too!",
+      "UserId": "I1BCCQ",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    }
+  ],
+  "StartTime": "2024-07-01T21:00:09.6823409-07:00",
+  "EndTime": "2024-07-01T21:00:09.6823409-07:00",
+  "merged_content": "Thank you for calling Traveler's Delight, my name is Emily Johnson. How may I assist you today?Hi Emily, my name is Jack Thompson. I recently took a trip from Houston, Texas to Tokyo, Japan, and I wanted to express my gratitude for the exceptional service I received.That's fantastic to hear, Mr. Thompson! I'm delighted that you had a positive experience. Can you provide me with some specific details about the outstanding service you received?Certainly, Emily. First of all, the flight with Horizon Airlines was incredibly comfortable. The cabin crew was attentive and friendly, and the in-flight entertainment options were top-notch. The smooth and hassle-free journey made the long-haul flight much more bearable.I'm glad to hear that, Mr. Thompson. Horizon Airlines is known for its exceptional customer service. I'll make sure to pass on your compliments to them. Was there anything else that stood out during your trip?Absolutely, Emily. The accommodations at the Sakura Hotel in Tokyo were outstanding. The staff went above and beyond to ensure my stay was comfortable and enjoyable. They were knowledgeable about the local attractions and provided excellent recommendations for places to visit and dine. The hotel's location was also incredibly convenient for exploring the city.That's wonderful to hear, Mr. Thompson. I'm thrilled that Sakura Hotel exceeded your expectations. Their dedication to customer satisfaction is commendable. I'll make sure to share your kind words with them. Is there anything else you'd like to mention?Actually, yes. I had to reschedule my return flight due to a sudden change in plans, and I was pleasantly surprised by how helpful the customer service team at Traveler's Delight was. They assisted me in rebooking my flight without any hassle or additional charges. It made a stressful situation much more manageable.I'm glad we could assist you, Mr. Thompson. Our team at Traveler's Delight aims to provide excellent customer service at all times. To show our appreciation for your positive feedback and as a gesture of goodwill, I would like to offer you a 15% discount on your next international trip booking with us. How does that sound?That sounds wonderful, Emily! I truly appreciate your kind offer. I will definitely take advantage of the discount and book my future trips with Traveler's Delight. Thank you for your exceptional service today.You're most welcome, Mr. Thompson. It was my pleasure assisting you. Should you need any further assistance or have any other travel plans in the future, please don't hesitate to reach out to us. Have a fantastic day!Thank you, Emily. You have a great day too!",
+  "merged_content_user": "Hi Emily, my name is Jack Thompson. I recently took a trip from Houston, Texas to Tokyo, Japan, and I wanted to express my gratitude for the exceptional service I received.Certainly, Emily. First of all, the flight with Horizon Airlines was incredibly comfortable. The cabin crew was attentive and friendly, and the in-flight entertainment options were top-notch. The smooth and hassle-free journey made the long-haul flight much more bearable.Absolutely, Emily. The accommodations at the Sakura Hotel in Tokyo were outstanding. The staff went above and beyond to ensure my stay was comfortable and enjoyable. They were knowledgeable about the local attractions and provided excellent recommendations for places to visit and dine. The hotel's location was also incredibly convenient for exploring the city.Actually, yes. I had to reschedule my return flight due to a sudden change in plans, and I was pleasantly surprised by how helpful the customer service team at Traveler's Delight was. They assisted me in rebooking my flight without any hassle or additional charges. It made a stressful situation much more manageable.That sounds wonderful, Emily! I truly appreciate your kind offer. I will definitely take advantage of the discount and book my future trips with Traveler's Delight. Thank you for your exceptional service today.Thank you, Emily. You have a great day too!",
+  "merged_content_agent": "Thank you for calling Traveler's Delight, my name is Emily Johnson. How may I assist you today?That's fantastic to hear, Mr. Thompson! I'm delighted that you had a positive experience. Can you provide me with some specific details about the outstanding service you received?I'm glad to hear that, Mr. Thompson. Horizon Airlines is known for its exceptional customer service. I'll make sure to pass on your compliments to them. Was there anything else that stood out during your trip?That's wonderful to hear, Mr. Thompson. I'm thrilled that Sakura Hotel exceeded your expectations. Their dedication to customer satisfaction is commendable. I'll make sure to share your kind words with them. Is there anything else you'd like to mention?I'm glad we could assist you, Mr. Thompson. Our team at Traveler's Delight aims to provide excellent customer service at all times. To show our appreciation for your positive feedback and as a gesture of goodwill, I would like to offer you a 15% discount on your next international trip booking with us. How does that sound?You're most welcome, Mr. Thompson. It was my pleasure assisting you. Should you need any further assistance or have any other travel plans in the future, please don't hesitate to reach out to us. Have a fantastic day!",
+  "full_conversation": "Agent: Thank you for calling Traveler's Delight, my name is Emily Johnson. How may I assist you today?\nCustomer: Hi Emily, my name is Jack Thompson. I recently took a trip from Houston, Texas to Tokyo, Japan, and I wanted to express my gratitude for the exceptional service I received.\nAgent: That's fantastic to hear, Mr. Thompson! I'm delighted that you had a positive experience. Can you provide me with some specific details about the outstanding service you received?\nCustomer: Certainly, Emily. First of all, the flight with Horizon Airlines was incredibly comfortable. The cabin crew was attentive and friendly, and the in-flight entertainment options were top-notch. The smooth and hassle-free journey made the long-haul flight much more bearable.\nAgent: I'm glad to hear that, Mr. Thompson. Horizon Airlines is known for its exceptional customer service. I'll make sure to pass on your compliments to them. Was there anything else that stood out during your trip?\nCustomer: Absolutely, Emily. The accommodations at the Sakura Hotel in Tokyo were outstanding. The staff went above and beyond to ensure my stay was comfortable and enjoyable. They were knowledgeable about the local attractions and provided excellent recommendations for places to visit and dine. The hotel's location was also incredibly convenient for exploring the city.\nAgent: That's wonderful to hear, Mr. Thompson. I'm thrilled that Sakura Hotel exceeded your expectations. Their dedication to customer satisfaction is commendable. I'll make sure to share your kind words with them. Is there anything else you'd like to mention?\nCustomer: Actually, yes. I had to reschedule my return flight due to a sudden change in plans, and I was pleasantly surprised by how helpful the customer service team at Traveler's Delight was. They assisted me in rebooking my flight without any hassle or additional charges. It made a stressful situation much more manageable.\nAgent: I'm glad we could assist you, Mr. Thompson. Our team at Traveler's Delight aims to provide excellent customer service at all times. To show our appreciation for your positive feedback and as a gesture of goodwill, I would like to offer you a 15% discount on your next international trip booking with us. How does that sound?\nCustomer: That sounds wonderful, Emily! I truly appreciate your kind offer. I will definitely take advantage of the discount and book my future trips with Traveler's Delight. Thank you for your exceptional service today.\nAgent: You're most welcome, Mr. Thompson. It was my pleasure assisting you. Should you need any further assistance or have any other travel plans in the future, please don't hesitate to reach out to us. Have a fantastic day!\nCustomer: Thank you, Emily. You have a great day too!\n"
+}

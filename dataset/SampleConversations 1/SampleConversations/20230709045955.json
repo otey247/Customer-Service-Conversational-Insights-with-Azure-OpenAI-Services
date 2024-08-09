@@ -1,0 +1,206 @@
+{
+  "ConversationId": "bef81f11-1c92-4d99-a16c-775c3a9eee9e",
+  "Messages": [
+    {
+      "Id": "23ea50d4-cd37-4611-b827-3a3d1d155114",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-09T04:59:55.9855447-07:00",
+      "ConversationId": "bef81f11-1c92-4d99-a16c-775c3a9eee9e",
+      "Value": "Thank you for calling the contact center of Wanderlust Travel. My name is Sarah Johnson. How can I assist you today?",
+      "UserId": "WNHPRY",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "6a27f317-a23e-49ec-a095-cf254ac9a957",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-09T04:59:55.9855447-07:00",
+      "ConversationId": "bef81f11-1c92-4d99-a16c-775c3a9eee9e",
+      "Value": "My name is Mark Thompson, and I'm calling because I am extremely frustrated with the service I received during my recent trip! I flew from Denver to Paris, and the whole experience was a nightmare.",
+      "UserId": "V7Z5FV",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "a5125fc2-6205-4ecf-a6ee-68147c0f777b",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-09T04:59:55.9855447-07:00",
+      "ConversationId": "bef81f11-1c92-4d99-a16c-775c3a9eee9e",
+      "Value": "I'm sorry to hear that, Mr. Thompson. Could you please tell me more about what happened so I can better assist you?",
+      "UserId": "WNHPRY",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "baea11d1-66dc-40fc-bd4e-6567945e65a8",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-09T04:59:55.9855447-07:00",
+      "ConversationId": "bef81f11-1c92-4d99-a16c-775c3a9eee9e",
+      "Value": "First of all, the flight from Denver to Paris was delayed for over three hours. No one bothered to inform us until we were already at the airport. And the worst part was that there was no clear explanation for the delay!",
+      "UserId": "V7Z5FV",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "d5db6963-09f9-42a6-b6c8-1b0f305b3bdf",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-09T04:59:55.9855447-07:00",
+      "ConversationId": "bef81f11-1c92-4d99-a16c-775c3a9eee9e",
+      "Value": "I apologize for the inconvenience, Mr. Thompson. Delays can certainly be frustrating, especially when there is a lack of communication. Let me check the details of your booking to see if there were any updates sent out beforehand.",
+      "UserId": "WNHPRY",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "cc8ee2c8-92b3-4d1e-b7e6-c5224fa9cde7",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-09T04:59:55.9855447-07:00",
+      "ConversationId": "bef81f11-1c92-4d99-a16c-775c3a9eee9e",
+      "Value": "Well, that's not all. When I finally arrived in Paris, I found out that the hotel I had booked, EdenLux Hotel, had overbooked and had no rooms available. Can you believe that? I had to scramble to find another place to stay, and it cost me even more money!",
+      "UserId": "V7Z5FV",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "ebf003a7-e549-4c11-812b-ce0efcdfcfc7",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-09T04:59:55.9855447-07:00",
+      "ConversationId": "bef81f11-1c92-4d99-a16c-775c3a9eee9e",
+      "Value": "I'm truly sorry for the inconvenience, Mr. Thompson. It is certainly frustrating when a hotel overbooks and leaves guests without accommodations. Let me check our system to see if there were any notes about this issue with EdenLux Hotel. In the meantime, I can assist you in finding a suitable alternative and see if we can obtain compensation for the additional expenses you incurred.",
+      "UserId": "WNHPRY",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "537547ef-950b-4e83-98a8-1ad188858161",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-09T04:59:55.9855447-07:00",
+      "ConversationId": "bef81f11-1c92-4d99-a16c-775c3a9eee9e",
+      "Value": "This is just unacceptable! I trusted your agency to handle all the arrangements, and this is what I get? I demand an explanation and proper compensation for the inconvenience and the additional costs I had to bear!",
+      "UserId": "V7Z5FV",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "b54eca17-38e5-48fe-9ae3-7d877cf0cf4b",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-09T04:59:55.9855447-07:00",
+      "ConversationId": "bef81f11-1c92-4d99-a16c-775c3a9eee9e",
+      "Value": "I understand your frustration, Mr. Thompson, and I sincerely apologize for the inconvenience caused. We strive to provide the best travel experience for our customers, and I assure you that we will investigate the matter thoroughly. In terms of compensation, I will personally reach out to EdenLux Hotel to negotiate for reimbursement of the additional costs you incurred during your stay in Paris. Additionally, I can offer you a voucher for a future trip or a partial refund for the inconvenience caused.",
+      "UserId": "WNHPRY",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "248d3463-0c2a-42b1-9a18-0dcfea5b14a4",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-09T04:59:55.9855447-07:00",
+      "ConversationId": "bef81f11-1c92-4d99-a16c-775c3a9eee9e",
+      "Value": "It's about time you offered a solution! I expect a full refund for the hotel expenses, and I want a written apology from your agency for this entire ordeal. And don't think I won't be sharing my experience on social media and with the Better Business Bureau!",
+      "UserId": "V7Z5FV",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "0ece8a5c-7d7c-44b0-98cf-d115c1cd64b9",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-09T04:59:55.9855447-07:00",
+      "ConversationId": "bef81f11-1c92-4d99-a16c-775c3a9eee9e",
+      "Value": "I completely understand your frustration, Mr. Thompson, and I assure you that we take your concerns seriously. I will personally ensure that you receive a full refund for the hotel expenses, and I will also arrange for a written apology to be sent to you. As for sharing your experience, I encourage feedback, both positive and negative, as it helps us improve our services. Rest assured, I will do everything within my power to rectify the situation and regain your trust in our agency.",
+      "UserId": "WNHPRY",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "604de0ac-2927-4369-980b-c9bd4e1c2009",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-09T04:59:55.9855447-07:00",
+      "ConversationId": "bef81f11-1c92-4d99-a16c-775c3a9eee9e",
+      "Value": "Well, I expect prompt action on this matter, and I hope you genuinely mean what you say. This experience has been a nightmare, and I don't want anyone else to go through the same ordeal!",
+      "UserId": "V7Z5FV",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "e8716ce5-f2f8-4fbd-9ba7-4ed136c534da",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-09T04:59:55.9855447-07:00",
+      "ConversationId": "bef81f11-1c92-4d99-a16c-775c3a9eee9e",
+      "Value": "I completely understand, Mr. Thompson, and I assure you that your concerns will be addressed promptly. Thank you for bringing this to our attention, and I apologize once again for the inconvenience you experienced. Is there anything else I can assist you with today?",
+      "UserId": "WNHPRY",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    }
+  ],
+  "StartTime": "2024-07-09T04:59:55.9855447-07:00",
+  "EndTime": "2024-07-09T04:59:55.9855447-07:00",
+  "merged_content": "Thank you for calling the contact center of Wanderlust Travel. My name is Sarah Johnson. How can I assist you today?My name is Mark Thompson, and I'm calling because I am extremely frustrated with the service I received during my recent trip! I flew from Denver to Paris, and the whole experience was a nightmare.I'm sorry to hear that, Mr. Thompson. Could you please tell me more about what happened so I can better assist you?First of all, the flight from Denver to Paris was delayed for over three hours. No one bothered to inform us until we were already at the airport. And the worst part was that there was no clear explanation for the delay!I apologize for the inconvenience, Mr. Thompson. Delays can certainly be frustrating, especially when there is a lack of communication. Let me check the details of your booking to see if there were any updates sent out beforehand.Well, that's not all. When I finally arrived in Paris, I found out that the hotel I had booked, EdenLux Hotel, had overbooked and had no rooms available. Can you believe that? I had to scramble to find another place to stay, and it cost me even more money!I'm truly sorry for the inconvenience, Mr. Thompson. It is certainly frustrating when a hotel overbooks and leaves guests without accommodations. Let me check our system to see if there were any notes about this issue with EdenLux Hotel. In the meantime, I can assist you in finding a suitable alternative and see if we can obtain compensation for the additional expenses you incurred.This is just unacceptable! I trusted your agency to handle all the arrangements, and this is what I get? I demand an explanation and proper compensation for the inconvenience and the additional costs I had to bear!I understand your frustration, Mr. Thompson, and I sincerely apologize for the inconvenience caused. We strive to provide the best travel experience for our customers, and I assure you that we will investigate the matter thoroughly. In terms of compensation, I will personally reach out to EdenLux Hotel to negotiate for reimbursement of the additional costs you incurred during your stay in Paris. Additionally, I can offer you a voucher for a future trip or a partial refund for the inconvenience caused.It's about time you offered a solution! I expect a full refund for the hotel expenses, and I want a written apology from your agency for this entire ordeal. And don't think I won't be sharing my experience on social media and with the Better Business Bureau!I completely understand your frustration, Mr. Thompson, and I assure you that we take your concerns seriously. I will personally ensure that you receive a full refund for the hotel expenses, and I will also arrange for a written apology to be sent to you. As for sharing your experience, I encourage feedback, both positive and negative, as it helps us improve our services. Rest assured, I will do everything within my power to rectify the situation and regain your trust in our agency.Well, I expect prompt action on this matter, and I hope you genuinely mean what you say. This experience has been a nightmare, and I don't want anyone else to go through the same ordeal!I completely understand, Mr. Thompson, and I assure you that your concerns will be addressed promptly. Thank you for bringing this to our attention, and I apologize once again for the inconvenience you experienced. Is there anything else I can assist you with today?",
+  "merged_content_user": "My name is Mark Thompson, and I'm calling because I am extremely frustrated with the service I received during my recent trip! I flew from Denver to Paris, and the whole experience was a nightmare.First of all, the flight from Denver to Paris was delayed for over three hours. No one bothered to inform us until we were already at the airport. And the worst part was that there was no clear explanation for the delay!Well, that's not all. When I finally arrived in Paris, I found out that the hotel I had booked, EdenLux Hotel, had overbooked and had no rooms available. Can you believe that? I had to scramble to find another place to stay, and it cost me even more money!This is just unacceptable! I trusted your agency to handle all the arrangements, and this is what I get? I demand an explanation and proper compensation for the inconvenience and the additional costs I had to bear!It's about time you offered a solution! I expect a full refund for the hotel expenses, and I want a written apology from your agency for this entire ordeal. And don't think I won't be sharing my experience on social media and with the Better Business Bureau!Well, I expect prompt action on this matter, and I hope you genuinely mean what you say. This experience has been a nightmare, and I don't want anyone else to go through the same ordeal!",
+  "merged_content_agent": "Thank you for calling the contact center of Wanderlust Travel. My name is Sarah Johnson. How can I assist you today?I'm sorry to hear that, Mr. Thompson. Could you please tell me more about what happened so I can better assist you?I apologize for the inconvenience, Mr. Thompson. Delays can certainly be frustrating, especially when there is a lack of communication. Let me check the details of your booking to see if there were any updates sent out beforehand.I'm truly sorry for the inconvenience, Mr. Thompson. It is certainly frustrating when a hotel overbooks and leaves guests without accommodations. Let me check our system to see if there were any notes about this issue with EdenLux Hotel. In the meantime, I can assist you in finding a suitable alternative and see if we can obtain compensation for the additional expenses you incurred.I understand your frustration, Mr. Thompson, and I sincerely apologize for the inconvenience caused. We strive to provide the best travel experience for our customers, and I assure you that we will investigate the matter thoroughly. In terms of compensation, I will personally reach out to EdenLux Hotel to negotiate for reimbursement of the additional costs you incurred during your stay in Paris. Additionally, I can offer you a voucher for a future trip or a partial refund for the inconvenience caused.I completely understand your frustration, Mr. Thompson, and I assure you that we take your concerns seriously. I will personally ensure that you receive a full refund for the hotel expenses, and I will also arrange for a written apology to be sent to you. As for sharing your experience, I encourage feedback, both positive and negative, as it helps us improve our services. Rest assured, I will do everything within my power to rectify the situation and regain your trust in our agency.I completely understand, Mr. Thompson, and I assure you that your concerns will be addressed promptly. Thank you for bringing this to our attention, and I apologize once again for the inconvenience you experienced. Is there anything else I can assist you with today?",
+  "full_conversation": "Agent: Thank you for calling the contact center of Wanderlust Travel. My name is Sarah Johnson. How can I assist you today?\nCustomer: My name is Mark Thompson, and I'm calling because I am extremely frustrated with the service I received during my recent trip! I flew from Denver to Paris, and the whole experience was a nightmare.\nAgent: I'm sorry to hear that, Mr. Thompson. Could you please tell me more about what happened so I can better assist you?\nCustomer: First of all, the flight from Denver to Paris was delayed for over three hours. No one bothered to inform us until we were already at the airport. And the worst part was that there was no clear explanation for the delay!\nAgent: I apologize for the inconvenience, Mr. Thompson. Delays can certainly be frustrating, especially when there is a lack of communication. Let me check the details of your booking to see if there were any updates sent out beforehand.\nCustomer: Well, that's not all. When I finally arrived in Paris, I found out that the hotel I had booked, EdenLux Hotel, had overbooked and had no rooms available. Can you believe that? I had to scramble to find another place to stay, and it cost me even more money!\nAgent: I'm truly sorry for the inconvenience, Mr. Thompson. It is certainly frustrating when a hotel overbooks and leaves guests without accommodations. Let me check our system to see if there were any notes about this issue with EdenLux Hotel. In the meantime, I can assist you in finding a suitable alternative and see if we can obtain compensation for the additional expenses you incurred.\nCustomer: This is just unacceptable! I trusted your agency to handle all the arrangements, and this is what I get? I demand an explanation and proper compensation for the inconvenience and the additional costs I had to bear!\nAgent: I understand your frustration, Mr. Thompson, and I sincerely apologize for the inconvenience caused. We strive to provide the best travel experience for our customers, and I assure you that we will investigate the matter thoroughly. In terms of compensation, I will personally reach out to EdenLux Hotel to negotiate for reimbursement of the additional costs you incurred during your stay in Paris. Additionally, I can offer you a voucher for a future trip or a partial refund for the inconvenience caused.\nCustomer: It's about time you offered a solution! I expect a full refund for the hotel expenses, and I want a written apology from your agency for this entire ordeal. And don't think I won't be sharing my experience on social media and with the Better Business Bureau!\nAgent: I completely understand your frustration, Mr. Thompson, and I assure you that we take your concerns seriously. I will personally ensure that you receive a full refund for the hotel expenses, and I will also arrange for a written apology to be sent to you. As for sharing your experience, I encourage feedback, both positive and negative, as it helps us improve our services. Rest assured, I will do everything within my power to rectify the situation and regain your trust in our agency.\nCustomer: Well, I expect prompt action on this matter, and I hope you genuinely mean what you say. This experience has been a nightmare, and I don't want anyone else to go through the same ordeal!\nAgent: I completely understand, Mr. Thompson, and I assure you that your concerns will be addressed promptly. Thank you for bringing this to our attention, and I apologize once again for the inconvenience you experienced. Is there anything else I can assist you with today?\n"
+}

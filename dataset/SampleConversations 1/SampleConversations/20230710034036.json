@@ -1,0 +1,236 @@
+{
+  "ConversationId": "45b9ff95-1b36-4063-b166-7fdd9ca56853",
+  "Messages": [
+    {
+      "Id": "e06ca738-0ce3-452d-9e97-c237dd626600",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-10T03:40:36.3018311-07:00",
+      "ConversationId": "45b9ff95-1b36-4063-b166-7fdd9ca56853",
+      "Value": "Thank you for calling TravelWay, my name is Sarah Johnson. How may I assist you today?",
+      "UserId": "LJDQK5",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "104a1f73-2337-4005-9ce1-f92c88df8d25",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-10T03:40:36.3018311-07:00",
+      "ConversationId": "45b9ff95-1b36-4063-b166-7fdd9ca56853",
+      "Value": "Hi Sarah, my name is Emily Smith. I have some questions about my upcoming trip to Rome.",
+      "UserId": "Z4YM1X",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "6143cf11-53da-4ff8-980a-63b375ca0bca",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-10T03:40:36.3018311-07:00",
+      "ConversationId": "45b9ff95-1b36-4063-b166-7fdd9ca56853",
+      "Value": "Of course, Emily. I'll do my best to assist you. What specifically would you like to know?",
+      "UserId": "LJDQK5",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "b89577a8-cfcd-4d2d-8fd6-dd8e57777e3a",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-10T03:40:36.3018311-07:00",
+      "ConversationId": "45b9ff95-1b36-4063-b166-7fdd9ca56853",
+      "Value": "Well, I just wanted to say how impressed I am with the service I've received so far. From the moment I booked my flight from Denver to Rome, everything has been seamless. The ticketing process was smooth, and I want to commend your colleague, John Davis, for his attentiveness and patience.",
+      "UserId": "Z4YM1X",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "d50764fd-bddf-42ef-b5ec-3d8b91008440",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-10T03:40:36.3018311-07:00",
+      "ConversationId": "45b9ff95-1b36-4063-b166-7fdd9ca56853",
+      "Value": "Thank you for your kind words, Emily. I'll make sure to pass along your compliments to John. It's always great to hear that our customers are satisfied with our service. Is there anything else you'd like to share about your trip?",
+      "UserId": "LJDQK5",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "ee22fc1d-839b-431f-9904-34bc5707b988",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-10T03:40:36.3018311-07:00",
+      "ConversationId": "45b9ff95-1b36-4063-b166-7fdd9ca56853",
+      "Value": "Absolutely! Upon arriving in Rome, I was greeted by a representative from our hotel, Villa Rosa. They provided excellent transportation from the airport, which made my journey to the hotel hassle-free. The check-in process was quick, thanks to the efficient front desk staff.",
+      "UserId": "Z4YM1X",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "a65a1391-9f35-4d67-8fe3-2ca9d674af60",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-10T03:40:36.3018311-07:00",
+      "ConversationId": "45b9ff95-1b36-4063-b166-7fdd9ca56853",
+      "Value": "That's wonderful to hear, Emily. Villa Rosa is known for its superb customer service, and I'm glad they lived up to your expectations. Is there anything else you'd like to share about your experience in Rome?",
+      "UserId": "LJDQK5",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "38681412-0289-4095-9629-4e8b24e40b43",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-10T03:40:36.3018311-07:00",
+      "ConversationId": "45b9ff95-1b36-4063-b166-7fdd9ca56853",
+      "Value": "Yes, definitely! During my stay, I had the pleasure of taking a guided tour of the Colosseum. The tour guide, Marco Rossi, was incredibly knowledgeable and passionate about Roman history. He made the experience truly unforgettable. I highly recommend his services to anyone visiting Rome.",
+      "UserId": "Z4YM1X",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "c0fd302f-f2e6-4992-a25d-bbfeec50eba9",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-10T03:40:36.3018311-07:00",
+      "ConversationId": "45b9ff95-1b36-4063-b166-7fdd9ca56853",
+      "Value": "Thank you for the recommendation, Emily. Marco Rossi sounds like a fantastic guide. I'll make a note of it for future travelers. Is there anything else you'd like to mention?",
+      "UserId": "LJDQK5",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "6853f344-5670-4999-bf22-7e28484b9a22",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-10T03:40:36.3018311-07:00",
+      "ConversationId": "45b9ff95-1b36-4063-b166-7fdd9ca56853",
+      "Value": "Just one more thing, Sarah. I had a slight issue with my return flight, as it was delayed by a few hours. However, the staff at AirVoyage was quick to address the situation. They kept me updated on the status of the flight and provided me with a comfortable waiting area, ensuring that I wasn't inconvenienced too much. Despite the delay, I still felt well taken care of.",
+      "UserId": "Z4YM1X",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "8478917a-3bcb-4474-9882-0a3e1b11f936",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-10T03:40:36.3018311-07:00",
+      "ConversationId": "45b9ff95-1b36-4063-b166-7fdd9ca56853",
+      "Value": "I'm sorry about the inconvenience, Emily, but I'm glad to hear that AirVoyage handled the situation well. We understand that delays can be frustrating, and it's essential to make the experience as comfortable as possible.",
+      "UserId": "LJDQK5",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "1931b3fb-0aab-4072-9bf3-0b2981822cd4",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-10T03:40:36.3018311-07:00",
+      "ConversationId": "45b9ff95-1b36-4063-b166-7fdd9ca56853",
+      "Value": "Absolutely, Sarah. Overall, my trip to Rome has been fantastic, thanks in large part to the excellent service I received from TravelWay and all the individuals involved. Please pass along my sincere gratitude to everyone who contributed to making this trip memorable.",
+      "UserId": "Z4YM1X",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "7227a908-30a0-4adb-a83d-3a6b0ac91508",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-10T03:40:36.3018311-07:00",
+      "ConversationId": "45b9ff95-1b36-4063-b166-7fdd9ca56853",
+      "Value": "I'm delighted to hear that, Emily. Your compliments mean a lot to us. As a token of our appreciation, we would like to offer you a 15% discount on your next booking with TravelWay. This promotion can be availed within the next six months. How does that sound?",
+      "UserId": "LJDQK5",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "7f9f7f8c-9c3d-49ee-a3bd-f396b81ec67e",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-10T03:40:36.3018311-07:00",
+      "ConversationId": "45b9ff95-1b36-4063-b166-7fdd9ca56853",
+      "Value": "That's incredibly generous, Sarah! Thank you so much for the discount. I'm already thinking about my next adventure, and this offer will definitely help me plan it. I appreciate your assistance and the outstanding service provided by TravelWay.",
+      "UserId": "Z4YM1X",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "05d9e0b8-224c-45cb-8b08-1d62edcaf45b",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-10T03:40:36.3018311-07:00",
+      "ConversationId": "45b9ff95-1b36-4063-b166-7fdd9ca56853",
+      "Value": "You're very welcome, Emily! It's been a pleasure assisting you. Should you need any further assistance or have any more questions, please don't hesitate to reach out. We're here to help make your future trips just as fantastic as this one. Enjoy the rest of your day!",
+      "UserId": "LJDQK5",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    }
+  ],
+  "StartTime": "2024-07-10T03:40:36.3018311-07:00",
+  "EndTime": "2024-07-10T03:40:36.3018311-07:00",
+  "merged_content": "Thank you for calling TravelWay, my name is Sarah Johnson. How may I assist you today?Hi Sarah, my name is Emily Smith. I have some questions about my upcoming trip to Rome.Of course, Emily. I'll do my best to assist you. What specifically would you like to know?Well, I just wanted to say how impressed I am with the service I've received so far. From the moment I booked my flight from Denver to Rome, everything has been seamless. The ticketing process was smooth, and I want to commend your colleague, John Davis, for his attentiveness and patience.Thank you for your kind words, Emily. I'll make sure to pass along your compliments to John. It's always great to hear that our customers are satisfied with our service. Is there anything else you'd like to share about your trip?Absolutely! Upon arriving in Rome, I was greeted by a representative from our hotel, Villa Rosa. They provided excellent transportation from the airport, which made my journey to the hotel hassle-free. The check-in process was quick, thanks to the efficient front desk staff.That's wonderful to hear, Emily. Villa Rosa is known for its superb customer service, and I'm glad they lived up to your expectations. Is there anything else you'd like to share about your experience in Rome?Yes, definitely! During my stay, I had the pleasure of taking a guided tour of the Colosseum. The tour guide, Marco Rossi, was incredibly knowledgeable and passionate about Roman history. He made the experience truly unforgettable. I highly recommend his services to anyone visiting Rome.Thank you for the recommendation, Emily. Marco Rossi sounds like a fantastic guide. I'll make a note of it for future travelers. Is there anything else you'd like to mention?Just one more thing, Sarah. I had a slight issue with my return flight, as it was delayed by a few hours. However, the staff at AirVoyage was quick to address the situation. They kept me updated on the status of the flight and provided me with a comfortable waiting area, ensuring that I wasn't inconvenienced too much. Despite the delay, I still felt well taken care of.I'm sorry about the inconvenience, Emily, but I'm glad to hear that AirVoyage handled the situation well. We understand that delays can be frustrating, and it's essential to make the experience as comfortable as possible.Absolutely, Sarah. Overall, my trip to Rome has been fantastic, thanks in large part to the excellent service I received from TravelWay and all the individuals involved. Please pass along my sincere gratitude to everyone who contributed to making this trip memorable.I'm delighted to hear that, Emily. Your compliments mean a lot to us. As a token of our appreciation, we would like to offer you a 15% discount on your next booking with TravelWay. This promotion can be availed within the next six months. How does that sound?That's incredibly generous, Sarah! Thank you so much for the discount. I'm already thinking about my next adventure, and this offer will definitely help me plan it. I appreciate your assistance and the outstanding service provided by TravelWay.You're very welcome, Emily! It's been a pleasure assisting you. Should you need any further assistance or have any more questions, please don't hesitate to reach out. We're here to help make your future trips just as fantastic as this one. Enjoy the rest of your day!",
+  "merged_content_user": "Hi Sarah, my name is Emily Smith. I have some questions about my upcoming trip to Rome.Well, I just wanted to say how impressed I am with the service I've received so far. From the moment I booked my flight from Denver to Rome, everything has been seamless. The ticketing process was smooth, and I want to commend your colleague, John Davis, for his attentiveness and patience.Absolutely! Upon arriving in Rome, I was greeted by a representative from our hotel, Villa Rosa. They provided excellent transportation from the airport, which made my journey to the hotel hassle-free. The check-in process was quick, thanks to the efficient front desk staff.Yes, definitely! During my stay, I had the pleasure of taking a guided tour of the Colosseum. The tour guide, Marco Rossi, was incredibly knowledgeable and passionate about Roman history. He made the experience truly unforgettable. I highly recommend his services to anyone visiting Rome.Just one more thing, Sarah. I had a slight issue with my return flight, as it was delayed by a few hours. However, the staff at AirVoyage was quick to address the situation. They kept me updated on the status of the flight and provided me with a comfortable waiting area, ensuring that I wasn't inconvenienced too much. Despite the delay, I still felt well taken care of.Absolutely, Sarah. Overall, my trip to Rome has been fantastic, thanks in large part to the excellent service I received from TravelWay and all the individuals involved. Please pass along my sincere gratitude to everyone who contributed to making this trip memorable.That's incredibly generous, Sarah! Thank you so much for the discount. I'm already thinking about my next adventure, and this offer will definitely help me plan it. I appreciate your assistance and the outstanding service provided by TravelWay.",
+  "merged_content_agent": "Thank you for calling TravelWay, my name is Sarah Johnson. How may I assist you today?Of course, Emily. I'll do my best to assist you. What specifically would you like to know?Thank you for your kind words, Emily. I'll make sure to pass along your compliments to John. It's always great to hear that our customers are satisfied with our service. Is there anything else you'd like to share about your trip?That's wonderful to hear, Emily. Villa Rosa is known for its superb customer service, and I'm glad they lived up to your expectations. Is there anything else you'd like to share about your experience in Rome?Thank you for the recommendation, Emily. Marco Rossi sounds like a fantastic guide. I'll make a note of it for future travelers. Is there anything else you'd like to mention?I'm sorry about the inconvenience, Emily, but I'm glad to hear that AirVoyage handled the situation well. We understand that delays can be frustrating, and it's essential to make the experience as comfortable as possible.I'm delighted to hear that, Emily. Your compliments mean a lot to us. As a token of our appreciation, we would like to offer you a 15% discount on your next booking with TravelWay. This promotion can be availed within the next six months. How does that sound?You're very welcome, Emily! It's been a pleasure assisting you. Should you need any further assistance or have any more questions, please don't hesitate to reach out. We're here to help make your future trips just as fantastic as this one. Enjoy the rest of your day!",
+  "full_conversation": "Agent: Thank you for calling TravelWay, my name is Sarah Johnson. How may I assist you today?\nCustomer: Hi Sarah, my name is Emily Smith. I have some questions about my upcoming trip to Rome.\nAgent: Of course, Emily. I'll do my best to assist you. What specifically would you like to know?\nCustomer: Well, I just wanted to say how impressed I am with the service I've received so far. From the moment I booked my flight from Denver to Rome, everything has been seamless. The ticketing process was smooth, and I want to commend your colleague, John Davis, for his attentiveness and patience.\nAgent: Thank you for your kind words, Emily. I'll make sure to pass along your compliments to John. It's always great to hear that our customers are satisfied with our service. Is there anything else you'd like to share about your trip?\nCustomer: Absolutely! Upon arriving in Rome, I was greeted by a representative from our hotel, Villa Rosa. They provided excellent transportation from the airport, which made my journey to the hotel hassle-free. The check-in process was quick, thanks to the efficient front desk staff.\nAgent: That's wonderful to hear, Emily. Villa Rosa is known for its superb customer service, and I'm glad they lived up to your expectations. Is there anything else you'd like to share about your experience in Rome?\nCustomer: Yes, definitely! During my stay, I had the pleasure of taking a guided tour of the Colosseum. The tour guide, Marco Rossi, was incredibly knowledgeable and passionate about Roman history. He made the experience truly unforgettable. I highly recommend his services to anyone visiting Rome.\nAgent: Thank you for the recommendation, Emily. Marco Rossi sounds like a fantastic guide. I'll make a note of it for future travelers. Is there anything else you'd like to mention?\nCustomer: Just one more thing, Sarah. I had a slight issue with my return flight, as it was delayed by a few hours. However, the staff at AirVoyage was quick to address the situation. They kept me updated on the status of the flight and provided me with a comfortable waiting area, ensuring that I wasn't inconvenienced too much. Despite the delay, I still felt well taken care of.\nAgent: I'm sorry about the inconvenience, Emily, but I'm glad to hear that AirVoyage handled the situation well. We understand that delays can be frustrating, and it's essential to make the experience as comfortable as possible.\nCustomer: Absolutely, Sarah. Overall, my trip to Rome has been fantastic, thanks in large part to the excellent service I received from TravelWay and all the individuals involved. Please pass along my sincere gratitude to everyone who contributed to making this trip memorable.\nAgent: I'm delighted to hear that, Emily. Your compliments mean a lot to us. As a token of our appreciation, we would like to offer you a 15% discount on your next booking with TravelWay. This promotion can be availed within the next six months. How does that sound?\nCustomer: That's incredibly generous, Sarah! Thank you so much for the discount. I'm already thinking about my next adventure, and this offer will definitely help me plan it. I appreciate your assistance and the outstanding service provided by TravelWay.\nAgent: You're very welcome, Emily! It's been a pleasure assisting you. Should you need any further assistance or have any more questions, please don't hesitate to reach out. We're here to help make your future trips just as fantastic as this one. Enjoy the rest of your day!\n"
+}

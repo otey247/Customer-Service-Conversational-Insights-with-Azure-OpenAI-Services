@@ -355,7 +355,7 @@ function UpdateResults(data, answer) {
                 <div class="result-item">
                     <img src="images/0238-feedback-l-standard-96x96.png"/>
                     <div class="result-item-text">
-                        <h5>Customer satisfaction</h5>
+                        <h5>Customer satisfied</h5>
                         <div>${document.satisfied}</div>
                     </div>
                 </div>

@@ -1,0 +1,236 @@
+{
+  "ConversationId": "6e2160e0-cf3e-4be5-83be-2413a1caaacb",
+  "Messages": [
+    {
+      "Id": "bf3895cc-d6e7-4f12-a46d-6fd6ac3f3741",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-10T18:39:41.5536294-07:00",
+      "ConversationId": "6e2160e0-cf3e-4be5-83be-2413a1caaacb",
+      "Value": "mith: Good afternoon, thank you for calling Travel Adventures. My name is Agent Smith. How may I assist you today?",
+      "UserId": "FAMXJ4",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "09dee601-92e4-433e-a0e3-8c75a9820222",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-10T18:39:41.5536294-07:00",
+      "ConversationId": "6e2160e0-cf3e-4be5-83be-2413a1caaacb",
+      "Value": "ohnson: Hi Agent Smith, my name is Brian Johnson. I have a compliment and a question about my recent trip to Washington, D.C. ",
+      "UserId": "P0B8OE",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "90617207-7d0f-4c84-8b38-01a3b3456cee",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-10T18:39:41.5536294-07:00",
+      "ConversationId": "6e2160e0-cf3e-4be5-83be-2413a1caaacb",
+      "Value": "mith: Hello, Mr. Johnson! I'm glad to hear you had a positive experience. I'd be happy to help with your question. What can I assist you with?",
+      "UserId": "FAMXJ4",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "2bb56e4f-0af7-4f4c-b5d8-5542005f9e68",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-10T18:39:41.5536294-07:00",
+      "ConversationId": "6e2160e0-cf3e-4be5-83be-2413a1caaacb",
+      "Value": "ohnson: Well, I just wanted to let you know that everything went smoothly with my trip. From the moment I booked my flight from Los Angeles to Washington, D.C., with Horizon Airlines to the moment I checked out of the Hotel Capitol, everything was just perfect.",
+      "UserId": "P0B8OE",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "e710a67b-6188-4a9f-86c4-f3418004976c",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-10T18:39:41.5536294-07:00",
+      "ConversationId": "6e2160e0-cf3e-4be5-83be-2413a1caaacb",
+      "Value": "mith: That's wonderful to hear, Mr. Johnson! I'm thrilled that your trip went so well. We take pride in providing excellent service to our customers. Could you please share some specific details of your positive experience?",
+      "UserId": "FAMXJ4",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "c9f10fb6-d686-4670-96ff-a4748abf175c",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-10T18:39:41.5536294-07:00",
+      "ConversationId": "6e2160e0-cf3e-4be5-83be-2413a1caaacb",
+      "Value": "ohnson: Absolutely! Firstly, the flights with Horizon Airlines were incredibly comfortable and on time. The cabin crew was friendly and attentive throughout the journey. The hassle-free boarding process and smooth connections made my travel experience so much easier.",
+      "UserId": "P0B8OE",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "46fb26e2-6fa2-4cde-9092-bd3eb33f468d",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-10T18:39:41.5536294-07:00",
+      "ConversationId": "6e2160e0-cf3e-4be5-83be-2413a1caaacb",
+      "Value": "mith: I'm delighted to hear that, Mr. Johnson! Horizon Airlines takes pride in offering a comfortable and punctual flying experience. I'll make sure to document your compliment for them. What about your stay at Hotel Capitol?",
+      "UserId": "FAMXJ4",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "dbcb990a-7c22-4b76-86e0-c52939907158",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-10T18:39:41.5536294-07:00",
+      "ConversationId": "6e2160e0-cf3e-4be5-83be-2413a1caaacb",
+      "Value": "ohnson: Hotel Capitol exceeded my expectations. The location couldn't have been more convenient, right in the heart of downtown D.C. The staff was courteous and went above and beyond to ensure a comfortable stay. The room was well-appointed, and the cleanliness was impeccable.",
+      "UserId": "P0B8OE",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "becc06e3-659a-4c8b-8c24-760cf19c3a99",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-10T18:39:41.5536294-07:00",
+      "ConversationId": "6e2160e0-cf3e-4be5-83be-2413a1caaacb",
+      "Value": "mith: That's fantastic to hear, Mr. Johnson! I will definitely pass on your compliments to the Hotel Capitol. It's always great to hear about exceptional customer service and comfortable accommodations. Is there anything else you would like to mention about your trip?",
+      "UserId": "FAMXJ4",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "d0cae604-0c93-4ab3-b6c9-4fb82d22d5d3",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-10T18:39:41.5536294-07:00",
+      "ConversationId": "6e2160e0-cf3e-4be5-83be-2413a1caaacb",
+      "Value": "ohnson: Yes, I also want to express my gratitude for the recommendations you provided for sightseeing and dining. The tours I booked for the National Mall and the Smithsonian museums were excellent. The local restaurant, Liberty Bistro, had incredible food and a welcoming atmosphere. It was truly a memorable experience.",
+      "UserId": "P0B8OE",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "303bf137-f89e-4cab-b907-ab66fabf6b11",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-10T18:39:41.5536294-07:00",
+      "ConversationId": "6e2160e0-cf3e-4be5-83be-2413a1caaacb",
+      "Value": "mith: I'm thrilled to hear that, Mr. Johnson! I'm glad I could assist you with your plans and make your trip memorable. I'll make sure to note your compliments for our team as well. Is there anything else I can help you with today?",
+      "UserId": "FAMXJ4",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "38fbeb88-4cc5-48f6-8ca9-9df53e1311b6",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-10T18:39:41.5536294-07:00",
+      "ConversationId": "6e2160e0-cf3e-4be5-83be-2413a1caaacb",
+      "Value": "ohnson: No, that was all. Thank you for your assistance and exceptional service, Agent Smith. I really appreciate it. ",
+      "UserId": "P0B8OE",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "08797475-6f14-4d55-908f-25792da85531",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-10T18:39:41.5536294-07:00",
+      "ConversationId": "6e2160e0-cf3e-4be5-83be-2413a1caaacb",
+      "Value": "mith: You're most welcome, Mr. Johnson! It was a pleasure assisting you. As a token of our appreciation, I'd like to offer you a complimentary 10% discount on your next flight or hotel booking with Travel Adventures. Just mention this conversation during your next booking, and we'll take care of it for you.",
+      "UserId": "FAMXJ4",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "76af1cae-96cf-47ae-80da-f0d89809483d",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-10T18:39:41.5536294-07:00",
+      "ConversationId": "6e2160e0-cf3e-4be5-83be-2413a1caaacb",
+      "Value": "ohnson: Thank you so much, Agent Smith! That's very generous of you. I will definitely keep that in mind for my future travel plans. Have a great day!",
+      "UserId": "P0B8OE",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "582d3e8e-5932-4310-93d5-b7ddf52aac56",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-10T18:39:41.5536294-07:00",
+      "ConversationId": "6e2160e0-cf3e-4be5-83be-2413a1caaacb",
+      "Value": "mith: You're welcome, Mr. Johnson! I'm glad you're happy with the offer. I hope you have a wonderful day too, and please don't hesitate to reach out if you need any further assistance. Safe travels!",
+      "UserId": "FAMXJ4",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    }
+  ],
+  "StartTime": "2024-07-10T18:39:41.5536294-07:00",
+  "EndTime": "2024-07-10T18:39:41.5536294-07:00",
+  "merged_content": "mith: Good afternoon, thank you for calling Travel Adventures. My name is Agent Smith. How may I assist you today?ohnson: Hi Agent Smith, my name is Brian Johnson. I have a compliment and a question about my recent trip to Washington, D.C. mith: Hello, Mr. Johnson! I'm glad to hear you had a positive experience. I'd be happy to help with your question. What can I assist you with?ohnson: Well, I just wanted to let you know that everything went smoothly with my trip. From the moment I booked my flight from Los Angeles to Washington, D.C., with Horizon Airlines to the moment I checked out of the Hotel Capitol, everything was just perfect.mith: That's wonderful to hear, Mr. Johnson! I'm thrilled that your trip went so well. We take pride in providing excellent service to our customers. Could you please share some specific details of your positive experience?ohnson: Absolutely! Firstly, the flights with Horizon Airlines were incredibly comfortable and on time. The cabin crew was friendly and attentive throughout the journey. The hassle-free boarding process and smooth connections made my travel experience so much easier.mith: I'm delighted to hear that, Mr. Johnson! Horizon Airlines takes pride in offering a comfortable and punctual flying experience. I'll make sure to document your compliment for them. What about your stay at Hotel Capitol?ohnson: Hotel Capitol exceeded my expectations. The location couldn't have been more convenient, right in the heart of downtown D.C. The staff was courteous and went above and beyond to ensure a comfortable stay. The room was well-appointed, and the cleanliness was impeccable.mith: That's fantastic to hear, Mr. Johnson! I will definitely pass on your compliments to the Hotel Capitol. It's always great to hear about exceptional customer service and comfortable accommodations. Is there anything else you would like to mention about your trip?ohnson: Yes, I also want to express my gratitude for the recommendations you provided for sightseeing and dining. The tours I booked for the National Mall and the Smithsonian museums were excellent. The local restaurant, Liberty Bistro, had incredible food and a welcoming atmosphere. It was truly a memorable experience.mith: I'm thrilled to hear that, Mr. Johnson! I'm glad I could assist you with your plans and make your trip memorable. I'll make sure to note your compliments for our team as well. Is there anything else I can help you with today?ohnson: No, that was all. Thank you for your assistance and exceptional service, Agent Smith. I really appreciate it. mith: You're most welcome, Mr. Johnson! It was a pleasure assisting you. As a token of our appreciation, I'd like to offer you a complimentary 10% discount on your next flight or hotel booking with Travel Adventures. Just mention this conversation during your next booking, and we'll take care of it for you.ohnson: Thank you so much, Agent Smith! That's very generous of you. I will definitely keep that in mind for my future travel plans. Have a great day!mith: You're welcome, Mr. Johnson! I'm glad you're happy with the offer. I hope you have a wonderful day too, and please don't hesitate to reach out if you need any further assistance. Safe travels!",
+  "merged_content_user": "ohnson: Hi Agent Smith, my name is Brian Johnson. I have a compliment and a question about my recent trip to Washington, D.C. ohnson: Well, I just wanted to let you know that everything went smoothly with my trip. From the moment I booked my flight from Los Angeles to Washington, D.C., with Horizon Airlines to the moment I checked out of the Hotel Capitol, everything was just perfect.ohnson: Absolutely! Firstly, the flights with Horizon Airlines were incredibly comfortable and on time. The cabin crew was friendly and attentive throughout the journey. The hassle-free boarding process and smooth connections made my travel experience so much easier.ohnson: Hotel Capitol exceeded my expectations. The location couldn't have been more convenient, right in the heart of downtown D.C. The staff was courteous and went above and beyond to ensure a comfortable stay. The room was well-appointed, and the cleanliness was impeccable.ohnson: Yes, I also want to express my gratitude for the recommendations you provided for sightseeing and dining. The tours I booked for the National Mall and the Smithsonian museums were excellent. The local restaurant, Liberty Bistro, had incredible food and a welcoming atmosphere. It was truly a memorable experience.ohnson: No, that was all. Thank you for your assistance and exceptional service, Agent Smith. I really appreciate it. ohnson: Thank you so much, Agent Smith! That's very generous of you. I will definitely keep that in mind for my future travel plans. Have a great day!",
+  "merged_content_agent": "mith: Good afternoon, thank you for calling Travel Adventures. My name is Agent Smith. How may I assist you today?mith: Hello, Mr. Johnson! I'm glad to hear you had a positive experience. I'd be happy to help with your question. What can I assist you with?mith: That's wonderful to hear, Mr. Johnson! I'm thrilled that your trip went so well. We take pride in providing excellent service to our customers. Could you please share some specific details of your positive experience?mith: I'm delighted to hear that, Mr. Johnson! Horizon Airlines takes pride in offering a comfortable and punctual flying experience. I'll make sure to document your compliment for them. What about your stay at Hotel Capitol?mith: That's fantastic to hear, Mr. Johnson! I will definitely pass on your compliments to the Hotel Capitol. It's always great to hear about exceptional customer service and comfortable accommodations. Is there anything else you would like to mention about your trip?mith: I'm thrilled to hear that, Mr. Johnson! I'm glad I could assist you with your plans and make your trip memorable. I'll make sure to note your compliments for our team as well. Is there anything else I can help you with today?mith: You're most welcome, Mr. Johnson! It was a pleasure assisting you. As a token of our appreciation, I'd like to offer you a complimentary 10% discount on your next flight or hotel booking with Travel Adventures. Just mention this conversation during your next booking, and we'll take care of it for you.mith: You're welcome, Mr. Johnson! I'm glad you're happy with the offer. I hope you have a wonderful day too, and please don't hesitate to reach out if you need any further assistance. Safe travels!",
+  "full_conversation": "Agent Smith: Good afternoon, thank you for calling Travel Adventures. My name is Agent Smith. How may I assist you today?\nCustomer Johnson: Hi Agent Smith, my name is Brian Johnson. I have a compliment and a question about my recent trip to Washington, D.C. \nAgent Smith: Hello, Mr. Johnson! I'm glad to hear you had a positive experience. I'd be happy to help with your question. What can I assist you with?\nCustomer Johnson: Well, I just wanted to let you know that everything went smoothly with my trip. From the moment I booked my flight from Los Angeles to Washington, D.C., with Horizon Airlines to the moment I checked out of the Hotel Capitol, everything was just perfect.\nAgent Smith: That's wonderful to hear, Mr. Johnson! I'm thrilled that your trip went so well. We take pride in providing excellent service to our customers. Could you please share some specific details of your positive experience?\nCustomer Johnson: Absolutely! Firstly, the flights with Horizon Airlines were incredibly comfortable and on time. The cabin crew was friendly and attentive throughout the journey. The hassle-free boarding process and smooth connections made my travel experience so much easier.\nAgent Smith: I'm delighted to hear that, Mr. Johnson! Horizon Airlines takes pride in offering a comfortable and punctual flying experience. I'll make sure to document your compliment for them. What about your stay at Hotel Capitol?\nCustomer Johnson: Hotel Capitol exceeded my expectations. The location couldn't have been more convenient, right in the heart of downtown D.C. The staff was courteous and went above and beyond to ensure a comfortable stay. The room was well-appointed, and the cleanliness was impeccable.\nAgent Smith: That's fantastic to hear, Mr. Johnson! I will definitely pass on your compliments to the Hotel Capitol. It's always great to hear about exceptional customer service and comfortable accommodations. Is there anything else you would like to mention about your trip?\nCustomer Johnson: Yes, I also want to express my gratitude for the recommendations you provided for sightseeing and dining. The tours I booked for the National Mall and the Smithsonian museums were excellent. The local restaurant, Liberty Bistro, had incredible food and a welcoming atmosphere. It was truly a memorable experience.\nAgent Smith: I'm thrilled to hear that, Mr. Johnson! I'm glad I could assist you with your plans and make your trip memorable. I'll make sure to note your compliments for our team as well. Is there anything else I can help you with today?\nCustomer Johnson: No, that was all. Thank you for your assistance and exceptional service, Agent Smith. I really appreciate it. \nAgent Smith: You're most welcome, Mr. Johnson! It was a pleasure assisting you. As a token of our appreciation, I'd like to offer you a complimentary 10% discount on your next flight or hotel booking with Travel Adventures. Just mention this conversation during your next booking, and we'll take care of it for you.\nCustomer Johnson: Thank you so much, Agent Smith! That's very generous of you. I will definitely keep that in mind for my future travel plans. Have a great day!\nAgent Smith: You're welcome, Mr. Johnson! I'm glad you're happy with the offer. I hope you have a wonderful day too, and please don't hesitate to reach out if you need any further assistance. Safe travels!\n"
+}

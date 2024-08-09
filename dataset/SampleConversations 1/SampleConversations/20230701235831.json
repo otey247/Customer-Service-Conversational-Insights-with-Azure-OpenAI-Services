@@ -1,0 +1,266 @@
+{
+  "ConversationId": "78275154-4fed-4fac-aad9-934672f83612",
+  "Messages": [
+    {
+      "Id": "4c1985fb-65a8-4d83-a53d-5e5af870993e",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2023-07-01T23:58:31.5611066-07:00",
+      "ConversationId": "78275154-4fed-4fac-aad9-934672f83612",
+      "Value": "Thank you for calling the travel agency, my name is Rachel Anderson. How can I assist you today?",
+      "UserId": "HLO4D1",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "a99d6ec7-0da7-4c9d-a164-8337695897b4",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2023-07-01T23:58:31.5611066-07:00",
+      "ConversationId": "78275154-4fed-4fac-aad9-934672f83612",
+      "Value": "My name is Mark Johnson, and I am incredibly frustrated with the service I received during my recent trip! I can't believe the lack of competence from your agency!",
+      "UserId": "WD0ZUF",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "79e6c13c-3527-4526-8186-fa4427c1f6a0",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2023-07-01T23:58:31.5611066-07:00",
+      "ConversationId": "78275154-4fed-4fac-aad9-934672f83612",
+      "Value": "I'm truly sorry to hear that, Mr. Johnson. I understand that you're upset, and I'll do my best to assist you. Can you please provide me with some details about your trip and the specific issue you encountered?",
+      "UserId": "HLO4D1",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "9601951f-3987-4090-84fc-b6506dfeac3c",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2023-07-01T23:58:31.5611066-07:00",
+      "ConversationId": "78275154-4fed-4fac-aad9-934672f83612",
+      "Value": "Well, I booked a flight from Los Angeles to Tokyo through your agency, and it was a disaster from start to finish! Firstly, the flight was delayed by four hours, causing me to miss important meetings in Tokyo. Then, when I finally arrived, the hotel you booked for me was overbooked and I had to spend the night in a dreadful motel!",
+      "UserId": "WD0ZUF",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "04dc798a-f274-4dc7-a416-a70a9107e9e5",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2023-07-01T23:58:31.5611066-07:00",
+      "ConversationId": "78275154-4fed-4fac-aad9-934672f83612",
+      "Value": "I apologize for the inconvenience, Mr. Johnson. Flight delays and hotel overbookings are certainly not what we strive for. I understand how frustrating that must have been for you. Please allow me a moment to pull up your booking details so I can better assist you.",
+      "UserId": "HLO4D1",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "dc43196d-2ef4-41a3-84b5-8a90eb3fe1df",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2023-07-01T23:58:31.5611066-07:00",
+      "ConversationId": "78275154-4fed-4fac-aad9-934672f83612",
+      "Value": "Fine, but make it quick!",
+      "UserId": "WD0ZUF",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "20047a37-14d5-479a-9b20-9d43b3134406",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2023-07-01T23:58:31.5611066-07:00",
+      "ConversationId": "78275154-4fed-4fac-aad9-934672f83612",
+      "Value": "I appreciate your patience, Mr. Johnson. I see that your flight was with PacificAir, and unfortunately, delays can occur due to various factors. However, I apologize for any communication issues in notifying you about the delay. Regarding the hotel, I understand that the situation was disappointing. Let me check their availability for the dates of your stay and see if there's anything I can do to rectify the situation.",
+      "UserId": "HLO4D1",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "9a7500ca-2434-4557-901c-ae470ec37920",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2023-07-01T23:58:31.5611066-07:00",
+      "ConversationId": "78275154-4fed-4fac-aad9-934672f83612",
+      "Value": "Well, it better be something good, because I'm not happy at all!",
+      "UserId": "WD0ZUF",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "92f813b9-f397-48b5-88a5-804512e55d1f",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2023-07-01T23:58:31.5611066-07:00",
+      "ConversationId": "78275154-4fed-4fac-aad9-934672f83612",
+      "Value": "I completely understand, Mr. Johnson. While I check on alternate accommodations, I'd like to offer my sincerest apologies for the inconvenience you experienced. We value your business, and I want to make this right for you. If you could give me a few moments, I will do my best to find a suitable solution for you.",
+      "UserId": "HLO4D1",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "464fb47d-6577-472c-9cac-5228bb2d5419",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2023-07-01T23:58:31.5611066-07:00",
+      "ConversationId": "78275154-4fed-4fac-aad9-934672f83612",
+      "Value": "You better make it quick, because I don't have all day to waste!",
+      "UserId": "WD0ZUF",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "60aeffb2-9b73-402c-8d04-a4e87374d495",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2023-07-01T23:58:31.5611066-07:00",
+      "ConversationId": "78275154-4fed-4fac-aad9-934672f83612",
+      "Value": "I understand your urgency, Mr. Johnson. I've found an available room at a highly-rated hotel in Tokyo, and I will personally handle the booking for you. Additionally, as a gesture of goodwill, I'm going to refund the cost of one night's stay at the motel you had to endure. We take full responsibility for the inconveniences you faced, and I want to assure you that we'll take steps to prevent such occurrences in the future.",
+      "UserId": "HLO4D1",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "1c6cfa1e-9584-4a63-bac4-8f2ef415381f",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2023-07-01T23:58:31.5611066-07:00",
+      "ConversationId": "78275154-4fed-4fac-aad9-934672f83612",
+      "Value": "Finally, some reasonable action! I expect a full refund for that dreadful flight as well!",
+      "UserId": "WD0ZUF",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "740bb343-8dd5-4b67-8686-4e2e3558a500",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2023-07-01T23:58:31.5611066-07:00",
+      "ConversationId": "78275154-4fed-4fac-aad9-934672f83612",
+      "Value": "I understand your frustration, Mr. Johnson, and I'm sorry for the impact the delay had on your plans. While a full refund may not be possible, I will escalate your grievances to PacificAir's customer service and advocate for compensation on your behalf. I can assure you that they will address your concerns. In the meantime, I appreciate your patience and understanding as we work towards a resolution.",
+      "UserId": "HLO4D1",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "4f2d10fb-8c32-4530-97da-c9b84cd4239e",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2023-07-01T23:58:31.5611066-07:00",
+      "ConversationId": "78275154-4fed-4fac-aad9-934672f83612",
+      "Value": "This better not be another empty promise! This trip has been a nightmare, and I expect your agency to make it right!",
+      "UserId": "WD0ZUF",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "dfc7061f-03da-4923-8e10-f7444687c8fa",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2023-07-01T23:58:31.5611066-07:00",
+      "ConversationId": "78275154-4fed-4fac-aad9-934672f83612",
+      "Value": "Mr. Johnson, I genuinely empathize with your frustration, and I assure you that I'm committed to resolving your concerns. Rest assured that I'll stay in touch with you regarding the progress of your complaint, and I'll do everything within my power to ensure a satisfactory resolution. Your satisfaction is important to us, and we will take steps to improve our service based on your feedback.",
+      "UserId": "HLO4D1",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "3c89e2ff-e404-4558-bbe6-d75b2112f699",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2023-07-01T23:58:31.5611066-07:00",
+      "ConversationId": "78275154-4fed-4fac-aad9-934672f83612",
+      "Value": "Well, I'm still far from happy, but I appreciate your efforts. Make sure to keep me updated, and I expect a swift resolution.",
+      "UserId": "WD0ZUF",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "b699ef6d-60a7-4949-93a0-ed696a2f6ce0",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2023-07-01T23:58:31.5611066-07:00",
+      "ConversationId": "78275154-4fed-4fac-aad9-934672f83612",
+      "Value": "Absolutely, Mr. Johnson. Thank you for giving us the opportunity to make things right, and I apologize again for the inconveniences you faced. You will be contacted promptly with updates, and we'll work diligently to reach a resolution that meets your expectations. If you have any further questions or concerns in the meantime, please don't hesitate to contact me directly.",
+      "UserId": "HLO4D1",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    }
+  ],
+  "StartTime": "2023-07-01T23:58:31.5611066-07:00",
+  "EndTime": "2023-07-01T23:58:31.5611066-07:00",
+  "merged_content": "Thank you for calling the travel agency, my name is Rachel Anderson. How can I assist you today?My name is Mark Johnson, and I am incredibly frustrated with the service I received during my recent trip! I can't believe the lack of competence from your agency!I'm truly sorry to hear that, Mr. Johnson. I understand that you're upset, and I'll do my best to assist you. Can you please provide me with some details about your trip and the specific issue you encountered?Well, I booked a flight from Los Angeles to Tokyo through your agency, and it was a disaster from start to finish! Firstly, the flight was delayed by four hours, causing me to miss important meetings in Tokyo. Then, when I finally arrived, the hotel you booked for me was overbooked and I had to spend the night in a dreadful motel!I apologize for the inconvenience, Mr. Johnson. Flight delays and hotel overbookings are certainly not what we strive for. I understand how frustrating that must have been for you. Please allow me a moment to pull up your booking details so I can better assist you.Fine, but make it quick!I appreciate your patience, Mr. Johnson. I see that your flight was with PacificAir, and unfortunately, delays can occur due to various factors. However, I apologize for any communication issues in notifying you about the delay. Regarding the hotel, I understand that the situation was disappointing. Let me check their availability for the dates of your stay and see if there's anything I can do to rectify the situation.Well, it better be something good, because I'm not happy at all!I completely understand, Mr. Johnson. While I check on alternate accommodations, I'd like to offer my sincerest apologies for the inconvenience you experienced. We value your business, and I want to make this right for you. If you could give me a few moments, I will do my best to find a suitable solution for you.You better make it quick, because I don't have all day to waste!I understand your urgency, Mr. Johnson. I've found an available room at a highly-rated hotel in Tokyo, and I will personally handle the booking for you. Additionally, as a gesture of goodwill, I'm going to refund the cost of one night's stay at the motel you had to endure. We take full responsibility for the inconveniences you faced, and I want to assure you that we'll take steps to prevent such occurrences in the future.Finally, some reasonable action! I expect a full refund for that dreadful flight as well!I understand your frustration, Mr. Johnson, and I'm sorry for the impact the delay had on your plans. While a full refund may not be possible, I will escalate your grievances to PacificAir's customer service and advocate for compensation on your behalf. I can assure you that they will address your concerns. In the meantime, I appreciate your patience and understanding as we work towards a resolution.This better not be another empty promise! This trip has been a nightmare, and I expect your agency to make it right!Mr. Johnson, I genuinely empathize with your frustration, and I assure you that I'm committed to resolving your concerns. Rest assured that I'll stay in touch with you regarding the progress of your complaint, and I'll do everything within my power to ensure a satisfactory resolution. Your satisfaction is important to us, and we will take steps to improve our service based on your feedback.Well, I'm still far from happy, but I appreciate your efforts. Make sure to keep me updated, and I expect a swift resolution.Absolutely, Mr. Johnson. Thank you for giving us the opportunity to make things right, and I apologize again for the inconveniences you faced. You will be contacted promptly with updates, and we'll work diligently to reach a resolution that meets your expectations. If you have any further questions or concerns in the meantime, please don't hesitate to contact me directly.",
+  "merged_content_user": "My name is Mark Johnson, and I am incredibly frustrated with the service I received during my recent trip! I can't believe the lack of competence from your agency!Well, I booked a flight from Los Angeles to Tokyo through your agency, and it was a disaster from start to finish! Firstly, the flight was delayed by four hours, causing me to miss important meetings in Tokyo. Then, when I finally arrived, the hotel you booked for me was overbooked and I had to spend the night in a dreadful motel!Fine, but make it quick!Well, it better be something good, because I'm not happy at all!You better make it quick, because I don't have all day to waste!Finally, some reasonable action! I expect a full refund for that dreadful flight as well!This better not be another empty promise! This trip has been a nightmare, and I expect your agency to make it right!Well, I'm still far from happy, but I appreciate your efforts. Make sure to keep me updated, and I expect a swift resolution.",
+  "merged_content_agent": "Thank you for calling the travel agency, my name is Rachel Anderson. How can I assist you today?I'm truly sorry to hear that, Mr. Johnson. I understand that you're upset, and I'll do my best to assist you. Can you please provide me with some details about your trip and the specific issue you encountered?I apologize for the inconvenience, Mr. Johnson. Flight delays and hotel overbookings are certainly not what we strive for. I understand how frustrating that must have been for you. Please allow me a moment to pull up your booking details so I can better assist you.I appreciate your patience, Mr. Johnson. I see that your flight was with PacificAir, and unfortunately, delays can occur due to various factors. However, I apologize for any communication issues in notifying you about the delay. Regarding the hotel, I understand that the situation was disappointing. Let me check their availability for the dates of your stay and see if there's anything I can do to rectify the situation.I completely understand, Mr. Johnson. While I check on alternate accommodations, I'd like to offer my sincerest apologies for the inconvenience you experienced. We value your business, and I want to make this right for you. If you could give me a few moments, I will do my best to find a suitable solution for you.I understand your urgency, Mr. Johnson. I've found an available room at a highly-rated hotel in Tokyo, and I will personally handle the booking for you. Additionally, as a gesture of goodwill, I'm going to refund the cost of one night's stay at the motel you had to endure. We take full responsibility for the inconveniences you faced, and I want to assure you that we'll take steps to prevent such occurrences in the future.I understand your frustration, Mr. Johnson, and I'm sorry for the impact the delay had on your plans. While a full refund may not be possible, I will escalate your grievances to PacificAir's customer service and advocate for compensation on your behalf. I can assure you that they will address your concerns. In the meantime, I appreciate your patience and understanding as we work towards a resolution.Mr. Johnson, I genuinely empathize with your frustration, and I assure you that I'm committed to resolving your concerns. Rest assured that I'll stay in touch with you regarding the progress of your complaint, and I'll do everything within my power to ensure a satisfactory resolution. Your satisfaction is important to us, and we will take steps to improve our service based on your feedback.Absolutely, Mr. Johnson. Thank you for giving us the opportunity to make things right, and I apologize again for the inconveniences you faced. You will be contacted promptly with updates, and we'll work diligently to reach a resolution that meets your expectations. If you have any further questions or concerns in the meantime, please don't hesitate to contact me directly.",
+  "full_conversation": "Agent: Thank you for calling the travel agency, my name is Rachel Anderson. How can I assist you today?\nCustomer: My name is Mark Johnson, and I am incredibly frustrated with the service I received during my recent trip! I can't believe the lack of competence from your agency!\nAgent: I'm truly sorry to hear that, Mr. Johnson. I understand that you're upset, and I'll do my best to assist you. Can you please provide me with some details about your trip and the specific issue you encountered?\nCustomer: Well, I booked a flight from Los Angeles to Tokyo through your agency, and it was a disaster from start to finish! Firstly, the flight was delayed by four hours, causing me to miss important meetings in Tokyo. Then, when I finally arrived, the hotel you booked for me was overbooked and I had to spend the night in a dreadful motel!\nAgent: I apologize for the inconvenience, Mr. Johnson. Flight delays and hotel overbookings are certainly not what we strive for. I understand how frustrating that must have been for you. Please allow me a moment to pull up your booking details so I can better assist you.\nCustomer: Fine, but make it quick!\nAgent: I appreciate your patience, Mr. Johnson. I see that your flight was with PacificAir, and unfortunately, delays can occur due to various factors. However, I apologize for any communication issues in notifying you about the delay. Regarding the hotel, I understand that the situation was disappointing. Let me check their availability for the dates of your stay and see if there's anything I can do to rectify the situation.\nCustomer: Well, it better be something good, because I'm not happy at all!\nAgent: I completely understand, Mr. Johnson. While I check on alternate accommodations, I'd like to offer my sincerest apologies for the inconvenience you experienced. We value your business, and I want to make this right for you. If you could give me a few moments, I will do my best to find a suitable solution for you.\nCustomer: You better make it quick, because I don't have all day to waste!\nAgent: I understand your urgency, Mr. Johnson. I've found an available room at a highly-rated hotel in Tokyo, and I will personally handle the booking for you. Additionally, as a gesture of goodwill, I'm going to refund the cost of one night's stay at the motel you had to endure. We take full responsibility for the inconveniences you faced, and I want to assure you that we'll take steps to prevent such occurrences in the future.\nCustomer: Finally, some reasonable action! I expect a full refund for that dreadful flight as well!\nAgent: I understand your frustration, Mr. Johnson, and I'm sorry for the impact the delay had on your plans. While a full refund may not be possible, I will escalate your grievances to PacificAir's customer service and advocate for compensation on your behalf. I can assure you that they will address your concerns. In the meantime, I appreciate your patience and understanding as we work towards a resolution.\nCustomer: This better not be another empty promise! This trip has been a nightmare, and I expect your agency to make it right!\nAgent: Mr. Johnson, I genuinely empathize with your frustration, and I assure you that I'm committed to resolving your concerns. Rest assured that I'll stay in touch with you regarding the progress of your complaint, and I'll do everything within my power to ensure a satisfactory resolution. Your satisfaction is important to us, and we will take steps to improve our service based on your feedback.\nCustomer: Well, I'm still far from happy, but I appreciate your efforts. Make sure to keep me updated, and I expect a swift resolution.\nAgent: Absolutely, Mr. Johnson. Thank you for giving us the opportunity to make things right, and I apologize again for the inconveniences you faced. You will be contacted promptly with updates, and we'll work diligently to reach a resolution that meets your expectations. If you have any further questions or concerns in the meantime, please don't hesitate to contact me directly.\n"
+}

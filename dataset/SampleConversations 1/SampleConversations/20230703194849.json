@@ -1,0 +1,236 @@
+{
+  "ConversationId": "edfcec93-f5f2-46a8-b35c-ef190284a778",
+  "Messages": [
+    {
+      "Id": "baea48a7-41dc-4061-8323-d69131b2b7d6",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-03T19:48:49.2738454-07:00",
+      "ConversationId": "edfcec93-f5f2-46a8-b35c-ef190284a778",
+      "Value": "Thank you for calling Travel Plus, my name is Rachel Anderson. How can I assist you today?",
+      "UserId": "WMQ6J3",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "057b75f9-488d-47aa-afc6-8c8ea759361d",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-03T19:48:49.2738454-07:00",
+      "ConversationId": "edfcec93-f5f2-46a8-b35c-ef190284a778",
+      "Value": "Hi Rachel, my name is Sarah Johnson. I recently returned from a trip to Atlanta and I wanted to express my gratitude for the amazing service I received during my journey.",
+      "UserId": "AVLEAI",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "8070c45c-24fb-4ade-be75-8851ea65f454",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-03T19:48:49.2738454-07:00",
+      "ConversationId": "edfcec93-f5f2-46a8-b35c-ef190284a778",
+      "Value": "That's wonderful to hear, Sarah! I'm glad you had a great experience. Could you please provide me with some details about your trip so that I can document your compliment accurately?",
+      "UserId": "WMQ6J3",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "368df392-6b61-4d59-a396-3f745eff23e9",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-03T19:48:49.2738454-07:00",
+      "ConversationId": "edfcec93-f5f2-46a8-b35c-ef190284a778",
+      "Value": "Of course! I flew from Seattle to Atlanta with Skyline Airlines, and I must say that their efficiency and professionalism exceeded my expectations. The entire crew was extremely welcoming and attentive throughout the journey.",
+      "UserId": "AVLEAI",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "d2e7d06a-1e37-4409-a621-5ff9664d7221",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-03T19:48:49.2738454-07:00",
+      "ConversationId": "edfcec93-f5f2-46a8-b35c-ef190284a778",
+      "Value": "I'm glad to hear that your flight with Skyline Airlines was such a positive experience for you, Sarah. I will make sure to pass on your compliments to their management team. Was there anything specific that stood out to you about their service?",
+      "UserId": "WMQ6J3",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "1ebc66d6-aa8b-443f-89a2-ad17a1a35d7a",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-03T19:48:49.2738454-07:00",
+      "ConversationId": "edfcec93-f5f2-46a8-b35c-ef190284a778",
+      "Value": "Absolutely! The cabin crew went above and beyond to make sure every passenger was comfortable. They were prompt with meal services and constantly checked in on us. The seats were comfortable, and the in-flight entertainment options were great, too.",
+      "UserId": "AVLEAI",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "f64a0577-a67f-4bbe-8851-07173245e6f7",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-03T19:48:49.2738454-07:00",
+      "ConversationId": "edfcec93-f5f2-46a8-b35c-ef190284a778",
+      "Value": "That's fantastic to hear, Sarah! I'll definitely make a note of all these details. Apart from the airline, did you have any positive experiences during your stay in Atlanta?",
+      "UserId": "WMQ6J3",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "560cb1af-9745-470a-bd02-f6f0bdbb7e9e",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-03T19:48:49.2738454-07:00",
+      "ConversationId": "edfcec93-f5f2-46a8-b35c-ef190284a778",
+      "Value": "Yes, I stayed at a wonderful hotel called Luxe Haven. The staff there was exceptional, and the amenities provided were top-notch. The location was also very convenient, as it was close to all the major attractions in the city.",
+      "UserId": "AVLEAI",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "d7039515-a12b-44af-b0a3-d72bb3d04c43",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-03T19:48:49.2738454-07:00",
+      "ConversationId": "edfcec93-f5f2-46a8-b35c-ef190284a778",
+      "Value": "That's excellent to hear, Sarah. I'll make sure to highlight the exceptional service and amenities of Luxe Haven in my documentation as well. It sounds like you had a great overall experience during your trip to Atlanta.",
+      "UserId": "WMQ6J3",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "2ea70205-3d38-4e3b-b5a1-3a0dd30c0ee7",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-03T19:48:49.2738454-07:00",
+      "ConversationId": "edfcec93-f5f2-46a8-b35c-ef190284a778",
+      "Value": "Absolutely! The trip couldn't have gone any better. I'm really grateful for the assistance I received from Travel Plus in planning this trip. Your customer service was outstanding, and I truly appreciate your help.",
+      "UserId": "AVLEAI",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "895bf113-58b5-4ecb-9aa9-934f4f423b95",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-03T19:48:49.2738454-07:00",
+      "ConversationId": "edfcec93-f5f2-46a8-b35c-ef190284a778",
+      "Value": "Thank you so much for your kind words, Sarah. It was a pleasure assisting you, and I'm thrilled that your trip went smoothly. As a gesture of appreciation, I'd like to offer you a complimentary discount of 15% on your next flight booking with us.",
+      "UserId": "WMQ6J3",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "05b6a245-dded-406d-8de0-620c6e505e9a",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-03T19:48:49.2738454-07:00",
+      "ConversationId": "edfcec93-f5f2-46a8-b35c-ef190284a778",
+      "Value": "Oh, that's very generous of you, Rachel! I'm definitely planning more trips in the future, so I'll gladly accept the discount. Thank you so much!",
+      "UserId": "AVLEAI",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "f222b3b3-f332-4790-b579-2b8b96498eb5",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-03T19:48:49.2738454-07:00",
+      "ConversationId": "edfcec93-f5f2-46a8-b35c-ef190284a778",
+      "Value": "You're very welcome, Sarah! I'm delighted that you're happy with the discount offer. If you have any future travel plans or need any assistance, please don't hesitate to reach out to us. We're here to help you. Have a wonderful day!",
+      "UserId": "WMQ6J3",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "b2d8b8de-7a3c-4820-a6f7-004c8d0010e7",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-03T19:48:49.2738454-07:00",
+      "ConversationId": "edfcec93-f5f2-46a8-b35c-ef190284a778",
+      "Value": "Thank you once again, Rachel. I'll definitely keep you in mind for my future travel needs. Have a great day too! Goodbye!",
+      "UserId": "AVLEAI",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "0e49d609-d2a8-4d8a-94d8-33d17cc388e1",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-03T19:48:49.2738454-07:00",
+      "ConversationId": "edfcec93-f5f2-46a8-b35c-ef190284a778",
+      "Value": "Goodbye, Sarah, and take care!",
+      "UserId": "WMQ6J3",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    }
+  ],
+  "StartTime": "2024-07-03T19:48:49.2738454-07:00",
+  "EndTime": "2024-07-03T19:48:49.2738454-07:00",
+  "merged_content": "Thank you for calling Travel Plus, my name is Rachel Anderson. How can I assist you today?Hi Rachel, my name is Sarah Johnson. I recently returned from a trip to Atlanta and I wanted to express my gratitude for the amazing service I received during my journey.That's wonderful to hear, Sarah! I'm glad you had a great experience. Could you please provide me with some details about your trip so that I can document your compliment accurately?Of course! I flew from Seattle to Atlanta with Skyline Airlines, and I must say that their efficiency and professionalism exceeded my expectations. The entire crew was extremely welcoming and attentive throughout the journey.I'm glad to hear that your flight with Skyline Airlines was such a positive experience for you, Sarah. I will make sure to pass on your compliments to their management team. Was there anything specific that stood out to you about their service?Absolutely! The cabin crew went above and beyond to make sure every passenger was comfortable. They were prompt with meal services and constantly checked in on us. The seats were comfortable, and the in-flight entertainment options were great, too.That's fantastic to hear, Sarah! I'll definitely make a note of all these details. Apart from the airline, did you have any positive experiences during your stay in Atlanta?Yes, I stayed at a wonderful hotel called Luxe Haven. The staff there was exceptional, and the amenities provided were top-notch. The location was also very convenient, as it was close to all the major attractions in the city.That's excellent to hear, Sarah. I'll make sure to highlight the exceptional service and amenities of Luxe Haven in my documentation as well. It sounds like you had a great overall experience during your trip to Atlanta.Absolutely! The trip couldn't have gone any better. I'm really grateful for the assistance I received from Travel Plus in planning this trip. Your customer service was outstanding, and I truly appreciate your help.Thank you so much for your kind words, Sarah. It was a pleasure assisting you, and I'm thrilled that your trip went smoothly. As a gesture of appreciation, I'd like to offer you a complimentary discount of 15% on your next flight booking with us.Oh, that's very generous of you, Rachel! I'm definitely planning more trips in the future, so I'll gladly accept the discount. Thank you so much!You're very welcome, Sarah! I'm delighted that you're happy with the discount offer. If you have any future travel plans or need any assistance, please don't hesitate to reach out to us. We're here to help you. Have a wonderful day!Thank you once again, Rachel. I'll definitely keep you in mind for my future travel needs. Have a great day too! Goodbye!Goodbye, Sarah, and take care!",
+  "merged_content_user": "Hi Rachel, my name is Sarah Johnson. I recently returned from a trip to Atlanta and I wanted to express my gratitude for the amazing service I received during my journey.Of course! I flew from Seattle to Atlanta with Skyline Airlines, and I must say that their efficiency and professionalism exceeded my expectations. The entire crew was extremely welcoming and attentive throughout the journey.Absolutely! The cabin crew went above and beyond to make sure every passenger was comfortable. They were prompt with meal services and constantly checked in on us. The seats were comfortable, and the in-flight entertainment options were great, too.Yes, I stayed at a wonderful hotel called Luxe Haven. The staff there was exceptional, and the amenities provided were top-notch. The location was also very convenient, as it was close to all the major attractions in the city.Absolutely! The trip couldn't have gone any better. I'm really grateful for the assistance I received from Travel Plus in planning this trip. Your customer service was outstanding, and I truly appreciate your help.Oh, that's very generous of you, Rachel! I'm definitely planning more trips in the future, so I'll gladly accept the discount. Thank you so much!Thank you once again, Rachel. I'll definitely keep you in mind for my future travel needs. Have a great day too! Goodbye!",
+  "merged_content_agent": "Thank you for calling Travel Plus, my name is Rachel Anderson. How can I assist you today?That's wonderful to hear, Sarah! I'm glad you had a great experience. Could you please provide me with some details about your trip so that I can document your compliment accurately?I'm glad to hear that your flight with Skyline Airlines was such a positive experience for you, Sarah. I will make sure to pass on your compliments to their management team. Was there anything specific that stood out to you about their service?That's fantastic to hear, Sarah! I'll definitely make a note of all these details. Apart from the airline, did you have any positive experiences during your stay in Atlanta?That's excellent to hear, Sarah. I'll make sure to highlight the exceptional service and amenities of Luxe Haven in my documentation as well. It sounds like you had a great overall experience during your trip to Atlanta.Thank you so much for your kind words, Sarah. It was a pleasure assisting you, and I'm thrilled that your trip went smoothly. As a gesture of appreciation, I'd like to offer you a complimentary discount of 15% on your next flight booking with us.You're very welcome, Sarah! I'm delighted that you're happy with the discount offer. If you have any future travel plans or need any assistance, please don't hesitate to reach out to us. We're here to help you. Have a wonderful day!Goodbye, Sarah, and take care!",
+  "full_conversation": "Agent: Thank you for calling Travel Plus, my name is Rachel Anderson. How can I assist you today?\nCustomer: Hi Rachel, my name is Sarah Johnson. I recently returned from a trip to Atlanta and I wanted to express my gratitude for the amazing service I received during my journey.\nAgent: That's wonderful to hear, Sarah! I'm glad you had a great experience. Could you please provide me with some details about your trip so that I can document your compliment accurately?\nCustomer: Of course! I flew from Seattle to Atlanta with Skyline Airlines, and I must say that their efficiency and professionalism exceeded my expectations. The entire crew was extremely welcoming and attentive throughout the journey.\nAgent: I'm glad to hear that your flight with Skyline Airlines was such a positive experience for you, Sarah. I will make sure to pass on your compliments to their management team. Was there anything specific that stood out to you about their service?\nCustomer: Absolutely! The cabin crew went above and beyond to make sure every passenger was comfortable. They were prompt with meal services and constantly checked in on us. The seats were comfortable, and the in-flight entertainment options were great, too.\nAgent: That's fantastic to hear, Sarah! I'll definitely make a note of all these details. Apart from the airline, did you have any positive experiences during your stay in Atlanta?\nCustomer: Yes, I stayed at a wonderful hotel called Luxe Haven. The staff there was exceptional, and the amenities provided were top-notch. The location was also very convenient, as it was close to all the major attractions in the city.\nAgent: That's excellent to hear, Sarah. I'll make sure to highlight the exceptional service and amenities of Luxe Haven in my documentation as well. It sounds like you had a great overall experience during your trip to Atlanta.\nCustomer: Absolutely! The trip couldn't have gone any better. I'm really grateful for the assistance I received from Travel Plus in planning this trip. Your customer service was outstanding, and I truly appreciate your help.\nAgent: Thank you so much for your kind words, Sarah. It was a pleasure assisting you, and I'm thrilled that your trip went smoothly. As a gesture of appreciation, I'd like to offer you a complimentary discount of 15% on your next flight booking with us.\nCustomer: Oh, that's very generous of you, Rachel! I'm definitely planning more trips in the future, so I'll gladly accept the discount. Thank you so much!\nAgent: You're very welcome, Sarah! I'm delighted that you're happy with the discount offer. If you have any future travel plans or need any assistance, please don't hesitate to reach out to us. We're here to help you. Have a wonderful day!\nCustomer: Thank you once again, Rachel. I'll definitely keep you in mind for my future travel needs. Have a great day too! Goodbye!\nAgent: Goodbye, Sarah, and take care!\n"
+}

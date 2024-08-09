@@ -1,0 +1,206 @@
+{
+  "ConversationId": "f1b2e222-b393-496e-976e-fe42b0f500c9",
+  "Messages": [
+    {
+      "Id": "6f9944c3-a22e-4e4a-a604-233f601d654e",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-08T08:00:53.6419598-07:00",
+      "ConversationId": "f1b2e222-b393-496e-976e-fe42b0f500c9",
+      "Value": "Thank you for calling the Travel World contact center. My name is John Smith. How can I assist you today?",
+      "UserId": "FCLJ8Q",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "612f3c48-4442-486c-9ef5-5ae19d221877",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-08T08:00:53.6419598-07:00",
+      "ConversationId": "f1b2e222-b393-496e-976e-fe42b0f500c9",
+      "Value": "Hi John, my name is Emma Johnson. I recently traveled from Chicago to Athens, Greece, and I wanted to share my positive experience with you.",
+      "UserId": "KN6NCG",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "18d2528a-0aa1-4d1c-af1d-ef7b8983a472",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-08T08:00:53.6419598-07:00",
+      "ConversationId": "f1b2e222-b393-496e-976e-fe42b0f500c9",
+      "Value": "That's wonderful to hear, Emma! I'm glad you had a positive experience. Could you please share some specific details of your trip that made it so great?",
+      "UserId": "FCLJ8Q",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "43b3df07-a8a0-4857-a7f7-70cce7d0ed7b",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-08T08:00:53.6419598-07:00",
+      "ConversationId": "f1b2e222-b393-496e-976e-fe42b0f500c9",
+      "Value": "Of course! First of all, the flights with Skylink Airlines were fantastic. The crew members were friendly and attentive, making the long journey enjoyable. The in-flight meals were delicious, and the entertainment options provided kept me entertained throughout the flight.",
+      "UserId": "KN6NCG",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "3449a3b7-2666-4ac4-bc86-ac14d58472ec",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-08T08:00:53.6419598-07:00",
+      "ConversationId": "f1b2e222-b393-496e-976e-fe42b0f500c9",
+      "Value": "That's great to hear, Emma. I will make sure to pass on your compliments to Skylink Airlines. What about your accommodations in Athens?",
+      "UserId": "FCLJ8Q",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "d4a350a6-2a56-4d0d-8751-dee3d0d314e4",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-08T08:00:53.6419598-07:00",
+      "ConversationId": "f1b2e222-b393-496e-976e-fe42b0f500c9",
+      "Value": "I stayed at the Acropolis View Hotel in Athens, and it exceeded my expectations. The hotel staff was incredibly helpful and friendly, ensuring that I had a comfortable stay. The room had a breathtaking view of the Acropolis, and the hotel's central location made it convenient for exploring the city.",
+      "UserId": "KN6NCG",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "cec569b3-a36f-44e6-b8ac-e4e043bbf8e2",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-08T08:00:53.6419598-07:00",
+      "ConversationId": "f1b2e222-b393-496e-976e-fe42b0f500c9",
+      "Value": "That sounds absolutely amazing, Emma. I'm glad the Acropolis View Hotel provided you with a memorable experience. Is there anything else you'd like me to include in the documentation of your compliment?",
+      "UserId": "FCLJ8Q",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "a6e18e05-5f67-49a9-9e6e-11ba869743a8",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-08T08:00:53.6419598-07:00",
+      "ConversationId": "f1b2e222-b393-496e-976e-fe42b0f500c9",
+      "Value": "Yes, definitely! I must say that the travel itinerary you arranged for me was perfect. The flights were well-timed, and the layovers were organized in a way that allowed me to make the most of my time. I had enough time to explore the connecting cities and even managed to do some shopping at the duty-free stores.",
+      "UserId": "KN6NCG",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "aa64a9c2-2ca7-4a6e-88eb-22cf51427ff1",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-08T08:00:53.6419598-07:00",
+      "ConversationId": "f1b2e222-b393-496e-976e-fe42b0f500c9",
+      "Value": "That's wonderful, Emma. I'm glad the itinerary matched your preferences and allowed for some extra exploration time. We always strive to create the best travel experiences for our customers. As a token of our appreciation, I would like to offer you a 10% discount on your next booking with us. How does that sound?",
+      "UserId": "FCLJ8Q",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "dd806b73-4e0a-45d0-b0c3-84b95846398b",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-08T08:00:53.6419598-07:00",
+      "ConversationId": "f1b2e222-b393-496e-976e-fe42b0f500c9",
+      "Value": "That's very generous of you, John. I'm already thinking about my next trip, so I will definitely take advantage of that discount. Thank you so much for your excellent service and assistance throughout the whole process.",
+      "UserId": "KN6NCG",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "2e63044c-8aec-48f1-a874-28ddbc0941e9",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-08T08:00:53.6419598-07:00",
+      "ConversationId": "f1b2e222-b393-496e-976e-fe42b0f500c9",
+      "Value": "You're very welcome, Emma. It was my pleasure to assist you. We look forward to helping you plan your next adventure. If you have any other questions or need any further assistance, feel free to reach out to us at any time.",
+      "UserId": "FCLJ8Q",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "e35fc19e-368b-44a7-966d-13f58f8f08b0",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-08T08:00:53.6419598-07:00",
+      "ConversationId": "f1b2e222-b393-496e-976e-fe42b0f500c9",
+      "Value": "Thank you again, John. Have a great day!",
+      "UserId": "KN6NCG",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "354c88d5-05a5-4782-8b4c-5f60ebc5001d",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-08T08:00:53.6419598-07:00",
+      "ConversationId": "f1b2e222-b393-496e-976e-fe42b0f500c9",
+      "Value": "You too, Emma. Take care and happy travels!",
+      "UserId": "FCLJ8Q",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    }
+  ],
+  "StartTime": "2024-07-08T08:00:53.6419598-07:00",
+  "EndTime": "2024-07-08T08:00:53.6419598-07:00",
+  "merged_content": "Thank you for calling the Travel World contact center. My name is John Smith. How can I assist you today?Hi John, my name is Emma Johnson. I recently traveled from Chicago to Athens, Greece, and I wanted to share my positive experience with you.That's wonderful to hear, Emma! I'm glad you had a positive experience. Could you please share some specific details of your trip that made it so great?Of course! First of all, the flights with Skylink Airlines were fantastic. The crew members were friendly and attentive, making the long journey enjoyable. The in-flight meals were delicious, and the entertainment options provided kept me entertained throughout the flight.That's great to hear, Emma. I will make sure to pass on your compliments to Skylink Airlines. What about your accommodations in Athens?I stayed at the Acropolis View Hotel in Athens, and it exceeded my expectations. The hotel staff was incredibly helpful and friendly, ensuring that I had a comfortable stay. The room had a breathtaking view of the Acropolis, and the hotel's central location made it convenient for exploring the city.That sounds absolutely amazing, Emma. I'm glad the Acropolis View Hotel provided you with a memorable experience. Is there anything else you'd like me to include in the documentation of your compliment?Yes, definitely! I must say that the travel itinerary you arranged for me was perfect. The flights were well-timed, and the layovers were organized in a way that allowed me to make the most of my time. I had enough time to explore the connecting cities and even managed to do some shopping at the duty-free stores.That's wonderful, Emma. I'm glad the itinerary matched your preferences and allowed for some extra exploration time. We always strive to create the best travel experiences for our customers. As a token of our appreciation, I would like to offer you a 10% discount on your next booking with us. How does that sound?That's very generous of you, John. I'm already thinking about my next trip, so I will definitely take advantage of that discount. Thank you so much for your excellent service and assistance throughout the whole process.You're very welcome, Emma. It was my pleasure to assist you. We look forward to helping you plan your next adventure. If you have any other questions or need any further assistance, feel free to reach out to us at any time.Thank you again, John. Have a great day!You too, Emma. Take care and happy travels!",
+  "merged_content_user": "Hi John, my name is Emma Johnson. I recently traveled from Chicago to Athens, Greece, and I wanted to share my positive experience with you.Of course! First of all, the flights with Skylink Airlines were fantastic. The crew members were friendly and attentive, making the long journey enjoyable. The in-flight meals were delicious, and the entertainment options provided kept me entertained throughout the flight.I stayed at the Acropolis View Hotel in Athens, and it exceeded my expectations. The hotel staff was incredibly helpful and friendly, ensuring that I had a comfortable stay. The room had a breathtaking view of the Acropolis, and the hotel's central location made it convenient for exploring the city.Yes, definitely! I must say that the travel itinerary you arranged for me was perfect. The flights were well-timed, and the layovers were organized in a way that allowed me to make the most of my time. I had enough time to explore the connecting cities and even managed to do some shopping at the duty-free stores.That's very generous of you, John. I'm already thinking about my next trip, so I will definitely take advantage of that discount. Thank you so much for your excellent service and assistance throughout the whole process.Thank you again, John. Have a great day!",
+  "merged_content_agent": "Thank you for calling the Travel World contact center. My name is John Smith. How can I assist you today?That's wonderful to hear, Emma! I'm glad you had a positive experience. Could you please share some specific details of your trip that made it so great?That's great to hear, Emma. I will make sure to pass on your compliments to Skylink Airlines. What about your accommodations in Athens?That sounds absolutely amazing, Emma. I'm glad the Acropolis View Hotel provided you with a memorable experience. Is there anything else you'd like me to include in the documentation of your compliment?That's wonderful, Emma. I'm glad the itinerary matched your preferences and allowed for some extra exploration time. We always strive to create the best travel experiences for our customers. As a token of our appreciation, I would like to offer you a 10% discount on your next booking with us. How does that sound?You're very welcome, Emma. It was my pleasure to assist you. We look forward to helping you plan your next adventure. If you have any other questions or need any further assistance, feel free to reach out to us at any time.You too, Emma. Take care and happy travels!",
+  "full_conversation": "Agent: Thank you for calling the Travel World contact center. My name is John Smith. How can I assist you today?\nCustomer: Hi John, my name is Emma Johnson. I recently traveled from Chicago to Athens, Greece, and I wanted to share my positive experience with you.\nAgent: That's wonderful to hear, Emma! I'm glad you had a positive experience. Could you please share some specific details of your trip that made it so great?\nCustomer: Of course! First of all, the flights with Skylink Airlines were fantastic. The crew members were friendly and attentive, making the long journey enjoyable. The in-flight meals were delicious, and the entertainment options provided kept me entertained throughout the flight.\nAgent: That's great to hear, Emma. I will make sure to pass on your compliments to Skylink Airlines. What about your accommodations in Athens?\nCustomer: I stayed at the Acropolis View Hotel in Athens, and it exceeded my expectations. The hotel staff was incredibly helpful and friendly, ensuring that I had a comfortable stay. The room had a breathtaking view of the Acropolis, and the hotel's central location made it convenient for exploring the city.\nAgent: That sounds absolutely amazing, Emma. I'm glad the Acropolis View Hotel provided you with a memorable experience. Is there anything else you'd like me to include in the documentation of your compliment?\nCustomer: Yes, definitely! I must say that the travel itinerary you arranged for me was perfect. The flights were well-timed, and the layovers were organized in a way that allowed me to make the most of my time. I had enough time to explore the connecting cities and even managed to do some shopping at the duty-free stores.\nAgent: That's wonderful, Emma. I'm glad the itinerary matched your preferences and allowed for some extra exploration time. We always strive to create the best travel experiences for our customers. As a token of our appreciation, I would like to offer you a 10% discount on your next booking with us. How does that sound?\nCustomer: That's very generous of you, John. I'm already thinking about my next trip, so I will definitely take advantage of that discount. Thank you so much for your excellent service and assistance throughout the whole process.\nAgent: You're very welcome, Emma. It was my pleasure to assist you. We look forward to helping you plan your next adventure. If you have any other questions or need any further assistance, feel free to reach out to us at any time.\nCustomer: Thank you again, John. Have a great day!\nAgent: You too, Emma. Take care and happy travels!\n"
+}

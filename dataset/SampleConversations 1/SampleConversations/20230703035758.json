@@ -1,0 +1,206 @@
+{
+  "ConversationId": "9ce18c9f-8f25-496b-8ec5-9cfdf42a4d55",
+  "Messages": [
+    {
+      "Id": "8341959c-300f-4225-b872-4d139bd05f17",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2023-07-03T03:57:58.113754-07:00",
+      "ConversationId": "9ce18c9f-8f25-496b-8ec5-9cfdf42a4d55",
+      "Value": "Thank you for calling the travel agency contact center. My name is Anna Reed. How may I assist you today?",
+      "UserId": "07HP2R",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "864735f2-59bf-41d8-8725-23043942beba",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2023-07-03T03:57:58.113754-07:00",
+      "ConversationId": "9ce18c9f-8f25-496b-8ec5-9cfdf42a4d55",
+      "Value": "Hi Anna, my name is Sarah Martinez. I have recently returned from a trip to New York City, and I wanted to express my gratitude for the excellent service I received from your agency.",
+      "UserId": "X1LVFF",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "f34ad95e-f4b5-4350-8e06-393ff8c46dba",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2023-07-03T03:57:58.113754-07:00",
+      "ConversationId": "9ce18c9f-8f25-496b-8ec5-9cfdf42a4d55",
+      "Value": "Thank you, Sarah! I'm delighted to hear that you had a great experience. Could you please provide me with some specific details so I can document this compliment?",
+      "UserId": "07HP2R",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "e585c1aa-d0ee-433c-b81d-69045863a07c",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2023-07-03T03:57:58.113754-07:00",
+      "ConversationId": "9ce18c9f-8f25-496b-8ec5-9cfdf42a4d55",
+      "Value": "Of course! First, I'd like to commend your diligent efforts in finding me the most convenient flights. I flew from Los Angeles, California to New York City, and your agent, Mark Thompson, secured direct flights for me on Starlink Airlines. The flights were on time, the in-flight service was pleasant, and the overall experience was smooth.",
+      "UserId": "X1LVFF",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "05a07a55-2e69-4ac2-a485-de93761d37a2",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2023-07-03T03:57:58.113754-07:00",
+      "ConversationId": "9ce18c9f-8f25-496b-8ec5-9cfdf42a4d55",
+      "Value": "I'm thrilled to hear that, Sarah! I'll make sure to pass on your compliments to Mark and our partnership with Starlink Airlines. We always strive to provide the best options for our customers.",
+      "UserId": "07HP2R",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "3206557d-d1fe-4fe4-a251-324548e65474",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2023-07-03T03:57:58.113754-07:00",
+      "ConversationId": "9ce18c9f-8f25-496b-8ec5-9cfdf42a4d55",
+      "Value": "Additionally, the hotel you recommended, the Deluxe Downtown Hotel, was outstanding. The room was clean, comfortable, and the staff went above and beyond to ensure my stay was enjoyable. The location was perfect, right in the heart of the city, making it easy for me to explore all the attractions.",
+      "UserId": "X1LVFF",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "e4ae357d-c012-4982-b24a-0349a73ab4cc",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2023-07-03T03:57:58.113754-07:00",
+      "ConversationId": "9ce18c9f-8f25-496b-8ec5-9cfdf42a4d55",
+      "Value": "That's fantastic, Sarah! I'm glad to know that the Deluxe Downtown Hotel exceeded your expectations. I'll make sure to share your positive feedback with our hotel team as well.",
+      "UserId": "07HP2R",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "c36c796d-bb2b-4245-8701-4b660ede2472",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2023-07-03T03:57:58.113754-07:00",
+      "ConversationId": "9ce18c9f-8f25-496b-8ec5-9cfdf42a4d55",
+      "Value": "Finally, I want to express my appreciation for your assistance with sightseeing recommendations. I was able to visit iconic landmarks like Times Square, the Statue of Liberty, and Central Park, thanks to your guidance. Your agent, Lisa Johnson, provided detailed itineraries and insider tips that made my trip unforgettable.",
+      "UserId": "X1LVFF",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "f3d6046d-a808-41e0-8a58-8d9fabd14a91",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2023-07-03T03:57:58.113754-07:00",
+      "ConversationId": "9ce18c9f-8f25-496b-8ec5-9cfdf42a4d55",
+      "Value": "I'm thrilled to hear that, Sarah! Lisa is indeed a valuable member of our team, and I'll definitely let her know about your kind words. We always aim to provide our customers with personalized recommendations to enhance their travel experiences.",
+      "UserId": "07HP2R",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "c1bce287-b9be-4b43-b623-bf9082b6c360",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2023-07-03T03:57:58.113754-07:00",
+      "ConversationId": "9ce18c9f-8f25-496b-8ec5-9cfdf42a4d55",
+      "Value": "Thank you once again, Anna. Your agency truly made my trip to New York City memorable. I will definitely be recommending your services to my friends and family.",
+      "UserId": "X1LVFF",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "4bef2dd7-465c-49f0-b68d-3835fc853ef1",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2023-07-03T03:57:58.113754-07:00",
+      "ConversationId": "9ce18c9f-8f25-496b-8ec5-9cfdf42a4d55",
+      "Value": "You're very welcome, Sarah! It was a pleasure assisting you. To show our appreciation, I'd like to offer you a 10% discount on your next booking with us. Please let us know when you're ready to plan your next adventure, and we'll be more than happy to assist you.",
+      "UserId": "07HP2R",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "eb8d6f4b-7a38-4cb9-8766-2ad74e40c95c",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2023-07-03T03:57:58.113754-07:00",
+      "ConversationId": "9ce18c9f-8f25-496b-8ec5-9cfdf42a4d55",
+      "Value": "That's incredibly generous, Anna! I'll definitely take advantage of the discount for my future travel plans. Thank you again for the exceptional service!",
+      "UserId": "X1LVFF",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "893a1eb8-bb2d-40ee-9568-346748f16141",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2023-07-03T03:57:58.113754-07:00",
+      "ConversationId": "9ce18c9f-8f25-496b-8ec5-9cfdf42a4d55",
+      "Value": "My pleasure, Sarah! We look forward to assisting you with your next adventure. Have a wonderful day!",
+      "UserId": "07HP2R",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    }
+  ],
+  "StartTime": "2023-07-03T03:57:58.113754-07:00",
+  "EndTime": "2023-07-03T03:57:58.113754-07:00",
+  "merged_content": "Thank you for calling the travel agency contact center. My name is Anna Reed. How may I assist you today?Hi Anna, my name is Sarah Martinez. I have recently returned from a trip to New York City, and I wanted to express my gratitude for the excellent service I received from your agency.Thank you, Sarah! I'm delighted to hear that you had a great experience. Could you please provide me with some specific details so I can document this compliment?Of course! First, I'd like to commend your diligent efforts in finding me the most convenient flights. I flew from Los Angeles, California to New York City, and your agent, Mark Thompson, secured direct flights for me on Starlink Airlines. The flights were on time, the in-flight service was pleasant, and the overall experience was smooth.I'm thrilled to hear that, Sarah! I'll make sure to pass on your compliments to Mark and our partnership with Starlink Airlines. We always strive to provide the best options for our customers.Additionally, the hotel you recommended, the Deluxe Downtown Hotel, was outstanding. The room was clean, comfortable, and the staff went above and beyond to ensure my stay was enjoyable. The location was perfect, right in the heart of the city, making it easy for me to explore all the attractions.That's fantastic, Sarah! I'm glad to know that the Deluxe Downtown Hotel exceeded your expectations. I'll make sure to share your positive feedback with our hotel team as well.Finally, I want to express my appreciation for your assistance with sightseeing recommendations. I was able to visit iconic landmarks like Times Square, the Statue of Liberty, and Central Park, thanks to your guidance. Your agent, Lisa Johnson, provided detailed itineraries and insider tips that made my trip unforgettable.I'm thrilled to hear that, Sarah! Lisa is indeed a valuable member of our team, and I'll definitely let her know about your kind words. We always aim to provide our customers with personalized recommendations to enhance their travel experiences.Thank you once again, Anna. Your agency truly made my trip to New York City memorable. I will definitely be recommending your services to my friends and family.You're very welcome, Sarah! It was a pleasure assisting you. To show our appreciation, I'd like to offer you a 10% discount on your next booking with us. Please let us know when you're ready to plan your next adventure, and we'll be more than happy to assist you.That's incredibly generous, Anna! I'll definitely take advantage of the discount for my future travel plans. Thank you again for the exceptional service!My pleasure, Sarah! We look forward to assisting you with your next adventure. Have a wonderful day!",
+  "merged_content_user": "Hi Anna, my name is Sarah Martinez. I have recently returned from a trip to New York City, and I wanted to express my gratitude for the excellent service I received from your agency.Of course! First, I'd like to commend your diligent efforts in finding me the most convenient flights. I flew from Los Angeles, California to New York City, and your agent, Mark Thompson, secured direct flights for me on Starlink Airlines. The flights were on time, the in-flight service was pleasant, and the overall experience was smooth.Additionally, the hotel you recommended, the Deluxe Downtown Hotel, was outstanding. The room was clean, comfortable, and the staff went above and beyond to ensure my stay was enjoyable. The location was perfect, right in the heart of the city, making it easy for me to explore all the attractions.Finally, I want to express my appreciation for your assistance with sightseeing recommendations. I was able to visit iconic landmarks like Times Square, the Statue of Liberty, and Central Park, thanks to your guidance. Your agent, Lisa Johnson, provided detailed itineraries and insider tips that made my trip unforgettable.Thank you once again, Anna. Your agency truly made my trip to New York City memorable. I will definitely be recommending your services to my friends and family.That's incredibly generous, Anna! I'll definitely take advantage of the discount for my future travel plans. Thank you again for the exceptional service!",
+  "merged_content_agent": "Thank you for calling the travel agency contact center. My name is Anna Reed. How may I assist you today?Thank you, Sarah! I'm delighted to hear that you had a great experience. Could you please provide me with some specific details so I can document this compliment?I'm thrilled to hear that, Sarah! I'll make sure to pass on your compliments to Mark and our partnership with Starlink Airlines. We always strive to provide the best options for our customers.That's fantastic, Sarah! I'm glad to know that the Deluxe Downtown Hotel exceeded your expectations. I'll make sure to share your positive feedback with our hotel team as well.I'm thrilled to hear that, Sarah! Lisa is indeed a valuable member of our team, and I'll definitely let her know about your kind words. We always aim to provide our customers with personalized recommendations to enhance their travel experiences.You're very welcome, Sarah! It was a pleasure assisting you. To show our appreciation, I'd like to offer you a 10% discount on your next booking with us. Please let us know when you're ready to plan your next adventure, and we'll be more than happy to assist you.My pleasure, Sarah! We look forward to assisting you with your next adventure. Have a wonderful day!",
+  "full_conversation": "Agent: Thank you for calling the travel agency contact center. My name is Anna Reed. How may I assist you today?\nCustomer: Hi Anna, my name is Sarah Martinez. I have recently returned from a trip to New York City, and I wanted to express my gratitude for the excellent service I received from your agency.\nAgent: Thank you, Sarah! I'm delighted to hear that you had a great experience. Could you please provide me with some specific details so I can document this compliment?\nCustomer: Of course! First, I'd like to commend your diligent efforts in finding me the most convenient flights. I flew from Los Angeles, California to New York City, and your agent, Mark Thompson, secured direct flights for me on Starlink Airlines. The flights were on time, the in-flight service was pleasant, and the overall experience was smooth.\nAgent: I'm thrilled to hear that, Sarah! I'll make sure to pass on your compliments to Mark and our partnership with Starlink Airlines. We always strive to provide the best options for our customers.\nCustomer: Additionally, the hotel you recommended, the Deluxe Downtown Hotel, was outstanding. The room was clean, comfortable, and the staff went above and beyond to ensure my stay was enjoyable. The location was perfect, right in the heart of the city, making it easy for me to explore all the attractions.\nAgent: That's fantastic, Sarah! I'm glad to know that the Deluxe Downtown Hotel exceeded your expectations. I'll make sure to share your positive feedback with our hotel team as well.\nCustomer: Finally, I want to express my appreciation for your assistance with sightseeing recommendations. I was able to visit iconic landmarks like Times Square, the Statue of Liberty, and Central Park, thanks to your guidance. Your agent, Lisa Johnson, provided detailed itineraries and insider tips that made my trip unforgettable.\nAgent: I'm thrilled to hear that, Sarah! Lisa is indeed a valuable member of our team, and I'll definitely let her know about your kind words. We always aim to provide our customers with personalized recommendations to enhance their travel experiences.\nCustomer: Thank you once again, Anna. Your agency truly made my trip to New York City memorable. I will definitely be recommending your services to my friends and family.\nAgent: You're very welcome, Sarah! It was a pleasure assisting you. To show our appreciation, I'd like to offer you a 10% discount on your next booking with us. Please let us know when you're ready to plan your next adventure, and we'll be more than happy to assist you.\nCustomer: That's incredibly generous, Anna! I'll definitely take advantage of the discount for my future travel plans. Thank you again for the exceptional service!\nAgent: My pleasure, Sarah! We look forward to assisting you with your next adventure. Have a wonderful day!\n"
+}

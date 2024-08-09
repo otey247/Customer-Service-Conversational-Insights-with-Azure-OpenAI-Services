@@ -1,0 +1,236 @@
+{
+  "ConversationId": "190d77d6-6227-49bd-8eec-da8ebfb37d4a",
+  "Messages": [
+    {
+      "Id": "4d8a986d-d975-4034-a70f-bdf2727916d3",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-01T17:53:36.3410369-07:00",
+      "ConversationId": "190d77d6-6227-49bd-8eec-da8ebfb37d4a",
+      "Value": "Thank you for calling Travel Time, my name is Emily Johnson. How may I assist you today?",
+      "UserId": "WWEU7Z",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "c7d9150d-4d5c-46eb-845d-7c8d6df2255d",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-01T17:53:36.3410369-07:00",
+      "ConversationId": "190d77d6-6227-49bd-8eec-da8ebfb37d4a",
+      "Value": "This is a complete disaster! My name is Jessica Adams and I recently traveled from San Francisco to Tokyo for a business trip. I am extremely dissatisfied with the service I received!",
+      "UserId": "QEHIFV",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "c9aba9ec-9a25-4eda-8f72-a2f02fcfa1dd",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-01T17:53:36.3410369-07:00",
+      "ConversationId": "190d77d6-6227-49bd-8eec-da8ebfb37d4a",
+      "Value": "I'm sorry to hear about your experience, Jessica. Can you please let me know what happened?",
+      "UserId": "WWEU7Z",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "790cc1ad-47d1-48fe-a502-d5eb433d72c7",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-01T17:53:36.3410369-07:00",
+      "ConversationId": "190d77d6-6227-49bd-8eec-da8ebfb37d4a",
+      "Value": "Well, first of all, I had booked a flight with Skylux Airlines, and it was delayed for more than two hours without any explanation. I missed an important meeting because of this!",
+      "UserId": "QEHIFV",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "4f5c0d78-a465-4264-a877-4b025d5081b3",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-01T17:53:36.3410369-07:00",
+      "ConversationId": "190d77d6-6227-49bd-8eec-da8ebfb37d4a",
+      "Value": "I understand that must have been frustrating, Jessica. Flight delays can be quite inconvenient. Let me check the details for you. Can you please provide me with your booking number?",
+      "UserId": "WWEU7Z",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "81c644ac-fb4a-4b44-81b3-79fac4bb2d96",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-01T17:53:36.3410369-07:00",
+      "ConversationId": "190d77d6-6227-49bd-8eec-da8ebfb37d4a",
+      "Value": "Yes, it's 123456789.",
+      "UserId": "QEHIFV",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "55c06c99-c009-4850-b5cf-c1917f3e430d",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-01T17:53:36.3410369-07:00",
+      "ConversationId": "190d77d6-6227-49bd-8eec-da8ebfb37d4a",
+      "Value": "Thank you, Jessica. I see here that there was an unexpected maintenance issue with the aircraft, which caused the delay. Unfortunately, these situations can occur unexpectedly, and the airline's priority is to ensure passenger safety. I apologize for the inconvenience caused.",
+      "UserId": "WWEU7Z",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "e6fde60e-1f72-43ee-a418-f370703a2253",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-01T17:53:36.3410369-07:00",
+      "ConversationId": "190d77d6-6227-49bd-8eec-da8ebfb37d4a",
+      "Value": "Safety is important, but the lack of communication was unacceptable! No one informed us about the delay or provided any updates. And on top of that, when I finally arrived in Tokyo, the hotel I had booked, Sunshine Plaza, had overbooked and gave away my room!",
+      "UserId": "QEHIFV",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "1a9ac7e2-297b-4416-b0ac-d0757bb355dc",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-01T17:53:36.3410369-07:00",
+      "ConversationId": "190d77d6-6227-49bd-8eec-da8ebfb37d4a",
+      "Value": "I apologize for the inconvenience, Jessica. Overbooking is a rare occurrence, but I understand how frustrating it can be. Let me check on the situation with the hotel and see if there's anything I can do to assist you.",
+      "UserId": "WWEU7Z",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "8a72234b-d3d9-425b-9416-b1b83be192ea",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-01T17:53:36.3410369-07:00",
+      "ConversationId": "190d77d6-6227-49bd-8eec-da8ebfb37d4a",
+      "Value": "It better be something substantial! I had to scramble to find another hotel, and it ended up costing me even more money! This whole trip has been a disaster, and I'm extremely disappointed with the way this was handled.",
+      "UserId": "QEHIFV",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "11a65174-2f59-4c7c-b76b-d29f79a35e39",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-01T17:53:36.3410369-07:00",
+      "ConversationId": "190d77d6-6227-49bd-8eec-da8ebfb37d4a",
+      "Value": "I completely understand your frustration, Jessica. We take your feedback seriously, and I assure you that I'm here to help. I'll reach out to Sunshine Plaza immediately to ensure a thorough investigation of the situation. In the meantime, I can offer you a reimbursement for the additional expenses you incurred for booking a last-minute hotel.",
+      "UserId": "WWEU7Z",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "5d3ccb7b-ccdc-4a3e-9454-f016bfe8c63a",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-01T17:53:36.3410369-07:00",
+      "ConversationId": "190d77d6-6227-49bd-8eec-da8ebfb37d4a",
+      "Value": "Well, it's about time you offered something. I appreciate the reimbursement, but it doesn't make up for the stress and inconvenience caused. I expect more from a reputable travel agency like yours.",
+      "UserId": "QEHIFV",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "98a72e79-4c68-4815-8dd8-24d352515eda",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-01T17:53:36.3410369-07:00",
+      "ConversationId": "190d77d6-6227-49bd-8eec-da8ebfb37d4a",
+      "Value": "I apologize for any additional stress this situation has caused you, Jessica. I genuinely understand your frustration, and I'm doing everything I can to rectify the situation. Once I have more information from Sunshine Plaza, I will personally follow up with you to provide a resolution that meets your expectations. Is there anything else I can assist you with at this time?",
+      "UserId": "WWEU7Z",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "21f65fef-f396-4038-b697-dd699000186f",
+      "ReferenceId": null,
+      "EventType": "MessageFromUser",
+      "EventTime": "2024-07-01T17:53:36.3410369-07:00",
+      "ConversationId": "190d77d6-6227-49bd-8eec-da8ebfb37d4a",
+      "Value": "No, that's all for now. Just make sure you handle this issue promptly, or I'll be taking my business elsewhere.",
+      "UserId": "QEHIFV",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    },
+    {
+      "Id": "6b258b5c-38b6-4ceb-83e6-13996f5064f3",
+      "ReferenceId": null,
+      "EventType": "MessageFromBotOrAgent",
+      "EventTime": "2024-07-01T17:53:36.3410369-07:00",
+      "ConversationId": "190d77d6-6227-49bd-8eec-da8ebfb37d4a",
+      "Value": "I completely understand your dissatisfaction, Jessica, and I assure you that I'm committed to resolving this for you. Thank you for bringing this to our attention, and please be assured that we value your business. I will personally follow up with you within 24 hours to provide you with updates and a resolution.",
+      "UserId": "WWEU7Z",
+      "CustomProperties": {
+        "offset": "",
+        "duration": "",
+        "offsetInTicks": 0,
+        "durationInTicks": 0
+      }
+    }
+  ],
+  "StartTime": "2024-07-01T17:53:36.3410369-07:00",
+  "EndTime": "2024-07-01T17:53:36.3410369-07:00",
+  "merged_content": "Thank you for calling Travel Time, my name is Emily Johnson. How may I assist you today?This is a complete disaster! My name is Jessica Adams and I recently traveled from San Francisco to Tokyo for a business trip. I am extremely dissatisfied with the service I received!I'm sorry to hear about your experience, Jessica. Can you please let me know what happened?Well, first of all, I had booked a flight with Skylux Airlines, and it was delayed for more than two hours without any explanation. I missed an important meeting because of this!I understand that must have been frustrating, Jessica. Flight delays can be quite inconvenient. Let me check the details for you. Can you please provide me with your booking number?Yes, it's 123456789.Thank you, Jessica. I see here that there was an unexpected maintenance issue with the aircraft, which caused the delay. Unfortunately, these situations can occur unexpectedly, and the airline's priority is to ensure passenger safety. I apologize for the inconvenience caused.Safety is important, but the lack of communication was unacceptable! No one informed us about the delay or provided any updates. And on top of that, when I finally arrived in Tokyo, the hotel I had booked, Sunshine Plaza, had overbooked and gave away my room!I apologize for the inconvenience, Jessica. Overbooking is a rare occurrence, but I understand how frustrating it can be. Let me check on the situation with the hotel and see if there's anything I can do to assist you.It better be something substantial! I had to scramble to find another hotel, and it ended up costing me even more money! This whole trip has been a disaster, and I'm extremely disappointed with the way this was handled.I completely understand your frustration, Jessica. We take your feedback seriously, and I assure you that I'm here to help. I'll reach out to Sunshine Plaza immediately to ensure a thorough investigation of the situation. In the meantime, I can offer you a reimbursement for the additional expenses you incurred for booking a last-minute hotel.Well, it's about time you offered something. I appreciate the reimbursement, but it doesn't make up for the stress and inconvenience caused. I expect more from a reputable travel agency like yours.I apologize for any additional stress this situation has caused you, Jessica. I genuinely understand your frustration, and I'm doing everything I can to rectify the situation. Once I have more information from Sunshine Plaza, I will personally follow up with you to provide a resolution that meets your expectations. Is there anything else I can assist you with at this time?No, that's all for now. Just make sure you handle this issue promptly, or I'll be taking my business elsewhere.I completely understand your dissatisfaction, Jessica, and I assure you that I'm committed to resolving this for you. Thank you for bringing this to our attention, and please be assured that we value your business. I will personally follow up with you within 24 hours to provide you with updates and a resolution.",
+  "merged_content_user": "This is a complete disaster! My name is Jessica Adams and I recently traveled from San Francisco to Tokyo for a business trip. I am extremely dissatisfied with the service I received!Well, first of all, I had booked a flight with Skylux Airlines, and it was delayed for more than two hours without any explanation. I missed an important meeting because of this!Yes, it's 123456789.Safety is important, but the lack of communication was unacceptable! No one informed us about the delay or provided any updates. And on top of that, when I finally arrived in Tokyo, the hotel I had booked, Sunshine Plaza, had overbooked and gave away my room!It better be something substantial! I had to scramble to find another hotel, and it ended up costing me even more money! This whole trip has been a disaster, and I'm extremely disappointed with the way this was handled.Well, it's about time you offered something. I appreciate the reimbursement, but it doesn't make up for the stress and inconvenience caused. I expect more from a reputable travel agency like yours.No, that's all for now. Just make sure you handle this issue promptly, or I'll be taking my business elsewhere.",
+  "merged_content_agent": "Thank you for calling Travel Time, my name is Emily Johnson. How may I assist you today?I'm sorry to hear about your experience, Jessica. Can you please let me know what happened?I understand that must have been frustrating, Jessica. Flight delays can be quite inconvenient. Let me check the details for you. Can you please provide me with your booking number?Thank you, Jessica. I see here that there was an unexpected maintenance issue with the aircraft, which caused the delay. Unfortunately, these situations can occur unexpectedly, and the airline's priority is to ensure passenger safety. I apologize for the inconvenience caused.I apologize for the inconvenience, Jessica. Overbooking is a rare occurrence, but I understand how frustrating it can be. Let me check on the situation with the hotel and see if there's anything I can do to assist you.I completely understand your frustration, Jessica. We take your feedback seriously, and I assure you that I'm here to help. I'll reach out to Sunshine Plaza immediately to ensure a thorough investigation of the situation. In the meantime, I can offer you a reimbursement for the additional expenses you incurred for booking a last-minute hotel.I apologize for any additional stress this situation has caused you, Jessica. I genuinely understand your frustration, and I'm doing everything I can to rectify the situation. Once I have more information from Sunshine Plaza, I will personally follow up with you to provide a resolution that meets your expectations. Is there anything else I can assist you with at this time?I completely understand your dissatisfaction, Jessica, and I assure you that I'm committed to resolving this for you. Thank you for bringing this to our attention, and please be assured that we value your business. I will personally follow up with you within 24 hours to provide you with updates and a resolution.",
+  "full_conversation": "Agent: Thank you for calling Travel Time, my name is Emily Johnson. How may I assist you today?\nCustomer: This is a complete disaster! My name is Jessica Adams and I recently traveled from San Francisco to Tokyo for a business trip. I am extremely dissatisfied with the service I received!\nAgent: I'm sorry to hear about your experience, Jessica. Can you please let me know what happened?\nCustomer: Well, first of all, I had booked a flight with Skylux Airlines, and it was delayed for more than two hours without any explanation. I missed an important meeting because of this!\nAgent: I understand that must have been frustrating, Jessica. Flight delays can be quite inconvenient. Let me check the details for you. Can you please provide me with your booking number?\nCustomer: Yes, it's 123456789.\nAgent: Thank you, Jessica. I see here that there was an unexpected maintenance issue with the aircraft, which caused the delay. Unfortunately, these situations can occur unexpectedly, and the airline's priority is to ensure passenger safety. I apologize for the inconvenience caused.\nCustomer: Safety is important, but the lack of communication was unacceptable! No one informed us about the delay or provided any updates. And on top of that, when I finally arrived in Tokyo, the hotel I had booked, Sunshine Plaza, had overbooked and gave away my room!\nAgent: I apologize for the inconvenience, Jessica. Overbooking is a rare occurrence, but I understand how frustrating it can be. Let me check on the situation with the hotel and see if there's anything I can do to assist you.\nCustomer: It better be something substantial! I had to scramble to find another hotel, and it ended up costing me even more money! This whole trip has been a disaster, and I'm extremely disappointed with the way this was handled.\nAgent: I completely understand your frustration, Jessica. We take your feedback seriously, and I assure you that I'm here to help. I'll reach out to Sunshine Plaza immediately to ensure a thorough investigation of the situation. In the meantime, I can offer you a reimbursement for the additional expenses you incurred for booking a last-minute hotel.\nCustomer: Well, it's about time you offered something. I appreciate the reimbursement, but it doesn't make up for the stress and inconvenience caused. I expect more from a reputable travel agency like yours.\nAgent: I apologize for any additional stress this situation has caused you, Jessica. I genuinely understand your frustration, and I'm doing everything I can to rectify the situation. Once I have more information from Sunshine Plaza, I will personally follow up with you to provide a resolution that meets your expectations. Is there anything else I can assist you with at this time?\nCustomer: No, that's all for now. Just make sure you handle this issue promptly, or I'll be taking my business elsewhere.\nAgent: I completely understand your dissatisfaction, Jessica, and I assure you that I'm committed to resolving this for you. Thank you for bringing this to our attention, and please be assured that we value your business. I will personally follow up with you within 24 hours to provide you with updates and a resolution.\n"
+}
