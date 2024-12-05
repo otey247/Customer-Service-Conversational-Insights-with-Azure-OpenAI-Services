@@ -871,29 +871,29 @@
           }
       },
       {
-          "type": "Microsoft.Web/sites/host/functionKeys",
-          "apiVersion": "2018-11-01",
+          "type": "Microsoft.Web/sites/functions/keys",
+          "apiVersion": "2024-04-01",
           "name": "[concat(parameters('functionName'), '/default/clientKey')]",
           "dependsOn": [
-              "[resourceId('Microsoft.Web/sites', parameters('functionName'))]",
-              "WaitFunctionDeploymentSection"
+            "[resourceId('Microsoft.Web/sites', parameters('functionName'))]",
+            "WaitFunctionDeploymentSection"
           ],
           "properties": {
-              "name": "clientKey",
-              "value": "[variables('clientKey')]"
+            "name": "clientKey",
+            "value": "[variables('clientKey')]"
           }
       },
       {
-          "type": "Microsoft.Web/sites/host/functionKeys",
-          "apiVersion": "2018-11-01",
+          "type": "Microsoft.Web/sites/functions/keys",
+          "apiVersion": "2024-04-01",
           "name": "[concat(variables('openAIFunctionName'), '/default/clientKey')]",
           "dependsOn": [
-              "[resourceId('Microsoft.Web/sites', variables('openAIFunctionName'))]",
-              "WaitFunctionDeploymentSection"
+            "[resourceId('Microsoft.Web/sites', variables('openAIFunctionName'))]",
+            "WaitFunctionDeploymentSection"
           ],
           "properties": {
-              "name": "clientKey",
-              "value": "[variables('clientKey')]"
+            "name": "clientKey",
+            "value": "[variables('clientKey')]"
           }
       },
       {
