@@ -12,14 +12,14 @@
     },
     "webUIDockerImageReference": {
       "type": "string",
-      "defaultValue": "DOCKER|ckmuicontainer.azurecr.io/ckm-ui-dev:latest",
+      "defaultValue": "DOCKER|ckmcontainerreg.azurecr.io/csci-ui:latest",
       "metadata": {
         "description": "The reference to the WebUI Docker image for the Linux App Service Plan"
       }
     },
     "openAIFunctionDockerImageReference": {
       "type": "string",
-      "defaultValue": "DOCKER|ckmuicontainer.azurecr.io/ckm-acs-oai-async:latest",
+      "defaultValue": "DOCKER|ckmcontainerreg.azurecr.io/ckm-acs-oai-async:latest",
       "metadata": {
         "description": "The reference to the OpenAI Function Docker image for the Linux App Service Plan"
       }
@@ -312,6 +312,8 @@
       "metadata": {
         "description": "The prompt to use for the OpenAI API"
       }
+
+      /*"comments": "Reference: -For further details and guidance on how to effectively write metaprompt or system prompts, please refer to https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/system-message . Last Updated: 05/28/2024"*/
     },
     "OPENAI_PROMPT_KEYS": {
       "type": "string",
@@ -473,7 +475,7 @@
           "properties": {
               "mode": "Incremental",
               "templateLink": {
-                  "uri": "https://raw.githubusercontent.com/otey247/Customer-Service-Conversational-Insights-with-Azure-OpenAI-Services/master/infrastructure/ARM/ArmTemplateBatch.json",
+                  "uri": "https://raw.githubusercontent.com/Azure-Samples/cognitive-services-speech-sdk/master/samples/ingestion/ingestion-client/infra/main.json",
                   "contentVersion": "1.0.0.0"
               },
               "parameters": {
@@ -527,6 +529,9 @@
                   },
                   "DeploymentId": {
                       "value": "[parameters('speechDeploymentId')]"
+                  },
+                  "CompletedServiceBusConnectionString": {
+                      "value": ""
                   }
               }
           }
@@ -766,7 +771,7 @@
                       },
                       {
                           "name": "WEBSITE_RUN_FROM_PACKAGE",
-                          "value": "https://github.com/microsoft/Customer-Service-Conversational-Insights-with-Azure-OpenAI-Services/raw/master/infrastructure/deploy/csci-audio-dep.zip"
+                          "value": "https://github.com/microsoft/Customer-Service-Conversational-Insights-with-Azure-OpenAI-Services/raw/ckm-v1/infrastructure/deploy/csci-audio-dep.zip"
                       }
                   ]
               },
@@ -820,15 +825,15 @@
               "cognitive_search_knowledge_store_table_keyphrases": "keyphrasestable",
               "FUNCTIONS_EXTENSION_VERSION": "~4",
               "FUNCTIONS_WORKER_RUNTIME": "python",
-              "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/microsoft/Customer-Service-Conversational-Insights-with-Azure-OpenAI-Services/raw/master/infrastructure/deploy/csci-audio-dep.zip",
+              "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/microsoft/Customer-Service-Conversational-Insights-with-Azure-OpenAI-Services/raw/ckm-v1/infrastructure/deploy/csci-audio-dep.zip",
               "function_name": "[parameters('functionName')]",
               "function_key": "[variables('clientKey')]",
               "openai_function_name": "[variables('openAIFunctionName')]",
               "openai_function_key": "[variables('clientKey')]",
               "deployment_type": "audio",
               "OPENAI_PROMPT_KEYS": "[parameters('OPENAI_PROMPT_KEYS')]",
-              "audio_user_channel": "[parameters('audio_user_channel')]"
-          }
+              "audio_user_channel": "[parameters('audio_user_channel')]"          
+              }
       },
       {
           "type": "Microsoft.Web/sites",
@@ -871,29 +876,29 @@
           }
       },
       {
-          "type": "Microsoft.Web/sites/functions/keys",
-          "apiVersion": "2024-04-01",
+          "type": "Microsoft.Web/sites/host/functionKeys",
+          "apiVersion": "2018-11-01",
           "name": "[concat(parameters('functionName'), '/default/clientKey')]",
           "dependsOn": [
-            "[resourceId('Microsoft.Web/sites', parameters('functionName'))]",
-            "WaitFunctionDeploymentSection"
+              "[resourceId('Microsoft.Web/sites', parameters('functionName'))]",
+              "WaitFunctionDeploymentSection"
           ],
           "properties": {
-            "name": "clientKey",
-            "value": "[variables('clientKey')]"
+              "name": "clientKey",
+              "value": "[variables('clientKey')]"
           }
       },
       {
-          "type": "Microsoft.Web/sites/functions/keys",
-          "apiVersion": "2024-04-01",
+          "type": "Microsoft.Web/sites/host/functionKeys",
+          "apiVersion": "2018-11-01",
           "name": "[concat(variables('openAIFunctionName'), '/default/clientKey')]",
           "dependsOn": [
-            "[resourceId('Microsoft.Web/sites', variables('openAIFunctionName'))]",
-            "WaitFunctionDeploymentSection"
+              "[resourceId('Microsoft.Web/sites', variables('openAIFunctionName'))]",
+              "WaitFunctionDeploymentSection"
           ],
           "properties": {
-            "name": "clientKey",
-            "value": "[variables('clientKey')]"
+              "name": "clientKey",
+              "value": "[variables('clientKey')]"
           }
       },
       {
@@ -1025,7 +1030,7 @@
           ],
           "properties": {
               "azPowerShellVersion": "3.0",
-              "scriptContent": "start-sleep -Seconds 300",
+              "scriptContent": "start-sleep -Seconds 420",
               "cleanupPreference": "Always",
               "retentionInterval": "PT1H"
           }
